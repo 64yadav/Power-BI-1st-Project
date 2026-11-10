@@ -1,0 +1,1261 @@
+order_id,order_date,customer_id,city,category,product,quantity,unit_price,cost_price,discount_pct,payment_mode
+SE-0001,2025-01-01,C126,Bhagalpur,Home Care,Detergent Powder 3kg,2,380,301.11,0.0,card
+SE-0002,2025-01-02,C168,Muzaffarpur,Snacks,Cold Drink 2L,1,95,70.71,5.0,UPI
+SE-0003,2025-01-02,C269,Bhagalpur,Grocery,Basmati Rice 5kg,4,620,496.05,10.0,Card
+SE-0004,2025-01-02,C129,Bhagalpur,Grocery,Basmati Rice 5kg,1,620,490.87,5.0,Cash
+SE-0005,2025-01-03,C128,Bhagalpur,Grocery,Basmati Rice 5kg,1,620,489.04,5.0,Cash
+SE-0006,2025-01-04,C289,Patna,Personal Care,Toothpaste 200g,3,110,78.56,0.0,Cash
+SE-0007,2025-01-04,C095,Gaya,Snacks,Cream Biscuits 300g,3,40,28.75,0.0,Card
+SE-0008,2025-01-04,C077,Muzaffarpur,Snacks,Namkeen Mix 400g,1,110,79.87,10.0,Card
+SE-0009,2025-01-04,C132,Bhagalpur,Snacks,Cream Biscuits 300g,1,40,28.98,5.0,Cash
+SE-0010,2025-01-04,C007,Patna,Snacks,Namkeen Mix 400g,4,110,78.72,5.0,Cash
+SE-0011,2025-01-04,C101,Muzaffarpur,Snacks,Cream Biscuits 300g,2,40,28.98,5.0,UPI
+SE-0012,2025-01-04,C027,Darbhanga,Snacks,Potato Chips 150g,1,50,34.65,5.0,UPI
+SE-0013,2025-01-04,C035,Patna,Personal Care,Toothpaste 200g,1,110,80.57,5.0,cash
+SE-0014,2025-01-04,C123,Muzaffarpur,Grocery,Wheat Atta 5kg,2,245,203.28,5.0,Wallet
+SE-0015,2025-01-04,C122,Bhagalpur,Personal Care,Toothpaste 200g,2,110,77.85,10.0,Card
+SE-0016,2025-01-06,C018,Darbhanga,Personal Care,Toothpaste 200g,2,110,79.66,5.0,UPI
+SE-0016,2025-01-06,C018,Darbhanga,Personal Care,Toothpaste 200g,2,110,79.66,5.0,UPI
+SE-0017,2025-01-06,C215,Patna,Personal Care,Bathing Soap 4-pack,5,150,106.15,5.0,Cash
+SE-0018,2025-01-07,C169,Patna ,Grocery,Arhar Dal 1kg,2,160,129.36,0.0,UPI
+SE-0019,2025-01-07,C126,Gaya,Grocery,Mustard Oil 1L,3,190,167.68,0.0,UPI
+SE-0020,2025-01-07,C061,Bhagalpur,Grocery,Wheat Atta 5kg,2,245,203.46,0.0,upi
+SE-0021,2025-01-07,C055,Bhagalpur,Snacks,Potato Chips 150g,1,50,35.01,10.0,UPI
+SE-0022,2025-01-07,C039,Bhagalpur,Snacks,Potato Chips 150g,2,50,35.36,0.0,UPI
+SE-0023,2025-01-07,C162,Darbhanga ,Electronics Accessories,USB-C Cable 1m,1,399,276.51,25.0,UPI
+SE-0024,2025-01-08,C221,Patna,Snacks,Cream Biscuits 300g,3,40,29.06,5.0,UPI
+SE-0025,2025-01-08,C203,Bhagalpur,Grocery,Mustard Oil 1L,3,190,164.84,5.0,UPI
+SE-0026,2025-01-08,C268,Gaya,Home Care,Floor Cleaner 1L,1,190,139.29,0.0,UPI
+SE-0027,2025-01-08,C271,Patna,Grocery,Basmati Rice 5kg,3,620,499.45,5.0,UPI
+SE-0028,2025-01-09,C157,Patna,Snacks,Cold Drink 2L,1,95,71.38,5.0,UPI
+SE-0029,2025-01-10,C282,Muzaffarpur,Home Care,Detergent Powder 3kg,1,380,301.37,0.0,Card
+SE-0030,2025-01-10,C025,Darbhanga ,Snacks,Cream Biscuits 300g,4,40,29.26,0.0,Cash
+SE-0031,2025-01-10,C144,Patna,Grocery,Arhar Dal 1kg,1,160,130.53,10.0,UPI
+SE-0032,2025-01-10,C246,Darbhanga,Snacks,Namkeen Mix 400g,2,110,79.87,5.0,Card
+SE-0033,2025-01-10,C017,Muzaffarpur,Snacks,Namkeen Mix 400g,3,110,78.57,0.0,Cash
+SE-0034,2025-01-11,C258,Patna,Personal Care,Toothpaste 200g,1,110,78.91,0.0,UPI
+SE-0035,2025-01-11,C040,Patna,Personal Care,Bathing Soap 4-pack,2,150,106.17,0.0,Card
+SE-0036,2025-01-12,C098,Patna,Personal Care,Shampoo 340ml,4,285,190.66,5.0,Card
+SE-0037,2025-01-12,C078,Bhagalpur,Home Care,Detergent Powder 3kg,2,380,290.5,0.0,UPI
+SE-0038,2025-01-12,C057,Muzaffarpur,Snacks,Cream Biscuits 300g,2,40,28.4,10.0,UPI
+SE-0039,2025-01-13,C103,Patna,Snacks,Namkeen Mix 400g,2,110,78.86,0.0,Card
+SE-0040,2025-01-13,C118,Gaya,Snacks,Cream Biscuits 300g,4,40,28.74,10.0,upi
+SE-0041,2025-01-14,C219,Bhagalpur,Grocery,Mustard Oil 1L,3,190,165.93,10.0,Card
+SE-0042,2025-01-14,C260,Bhagalpur,Grocery,Wheat Atta 5kg,4,245,200.72,0.0,Cash
+SE-0043,2025-01-14,C114,Muzaffarpur,Personal Care,Shampoo 340ml,2,285,195.04,5.0,Wallet
+SE-0044,2025-01-15,C199,Bhagalpur,Snacks,Cream Biscuits 300g,2,40,28.98,5.0,UPI
+SE-0045,2025-01-15,C107,Gaya,Personal Care,Bathing Soap 4-pack,1,150,104.01,5.0,Card
+SE-0046,2025-01-17,C169,Bhagalpur,Electronics Accessories,USB-C Cable 1m,1,399,279.6,35.0,Card
+SE-0047,2025-01-18,C111,Darbhanga,Personal Care,Toothpaste 200g,1,110,79.05,5.0,Card
+SE-0048,2025-01-18,C288,Patna,Grocery,Wheat Atta 5kg,5,245,199.49,10.0,UPI
+SE-0049,2025-01-18,C020,Muzaffarpur,Snacks,Cream Biscuits 300g,2,40,28.75,5.0,upi
+SE-0050,2025-01-18,C107,Gaya,Snacks,Potato Chips 150g,4,50,35.45,5.0,UPI
+SE-0051,2025-01-18,C012,Muzaffarpur,Grocery,Basmati Rice 5kg,2,620,496.37,0.0,Card
+SE-0052,2025-01-19,C250,Bhagalpur,Personal Care,Toothpaste 200g,1,110,78.68,10.0,UPI
+SE-0053,2025-01-19,C048,Patna,Home Care,Detergent Powder 3kg,1,380,300.45,5.0,UPI
+SE-0054,2025-01-19,C165,Patna,Personal Care,Shampoo 340ml,5,285,193.12,5.0,UPI
+SE-0055,2025-01-19,C103,Muzaffarpur,Electronics Accessories,USB-C Cable 1m,1,399,282.49,25.0,Cash
+SE-0056,2025-01-20,C183,Darbhanga,Snacks,Namkeen Mix 400g,5,110,78.62,10.0,UPI
+SE-0057,2025-01-20,C087,Muzaffarpur,Snacks,Namkeen Mix 400g,2,110,79.39,0.0,Card
+SE-0058,2025-01-21,C218,Patna,Personal Care,Shampoo 340ml,3,285,194.03,5.0,UPI
+SE-0059,2025-01-22,C105,Patna,Home Care,Floor Cleaner 1L,4,190,138.83,0.0,wallet
+SE-0060,2025-01-22,C188,Bhagalpur,Personal Care,Shampoo 340ml,1,285,192.93,0.0,UPI
+SE-0061,2025-01-22,C075,Muzaffarpur,Electronics Accessories,Bluetooth Earphones,1,1499,1056.29,35.0,UPI
+SE-0062,2025-01-23,C049,Bhagalpur,Snacks,Cold Drink 2L,4,95,69.33,5.0,Card
+SE-0063,2025-01-24,C300,Darbhanga,Snacks,Cold Drink 2L,4,95,70.82,10.0,UPI
+SE-0064,2025-01-24,C284,Muzaffarpur,Home Care,Detergent Powder 3kg,2,380,299.98,5.0,Cash
+SE-0065,2025-01-25,C036,Patna,Personal Care,Shampoo 340ml,1,285,190.51,0.0,UPI
+SE-0066,2025-01-25,C083,Bhagalpur,Electronics Accessories,Power Bank 10000mAh,1,1299,895.85,25.0,Card
+SE-0067,2025-01-25,C271,Bhagalpur,Home Care,Detergent Powder 3kg,3,380,295.02,5.0,UPI
+SE-0068,2025-01-26,C112,Muzaffarpur,Personal Care,Toothpaste 200g,2,110,79.78,,Cash
+SE-0069,2025-01-26,C235,Patna,Snacks,Namkeen Mix 400g,3,110,79.5,5.0,Cash
+SE-0070,2025-01-26,C179,Patna,Grocery,Wheat Atta 5kg,4,245,200.3,10.0,UPI
+SE-0071,2025-01-26,C262,Patna,Personal Care,Shampoo 340ml,3,285,196.21,10.0,Cash
+SE-0072,2025-01-27,C290,Gaya,Snacks,Namkeen Mix 400g,3,110,79.04,0.0,UPI
+SE-0073,2025-01-27,C218,Bhagalpur,Personal Care,Toothpaste 200g,3,110,79.32,5.0,UPI
+SE-0074,2025-01-27,C143,Patna,Snacks,Cold Drink 2L,2,95,70.89,10.0,UPI
+SE-0075,2025-01-27,C133,Bhagalpur,Electronics Accessories,Power Bank 10000mAh,1,1299,903.17,35.0,UPI
+SE-0076,2025-01-27,C288,Patna,Grocery,Wheat Atta 5kg,4,245,202.81,0.0,UPI
+SE-0077,2025-01-27,C215,Darbhanga,Grocery,Arhar Dal 1kg,2,160,129.72,10.0,Cash
+SE-0078,2025-01-28,C139,Gaya,Snacks,Cream Biscuits 300g,1,40,29.27,5.0,Card
+SE-0079,2025-01-28,C208,Gaya,Snacks,Namkeen Mix 400g,1,110,77.94,0.0,Card
+SE-0080,2025-01-28,C007,Bhagalpur,Snacks,Namkeen Mix 400g,2,110,80.7,0.0,Cash
+SE-0081,2025-01-28,C031,Gaya,Personal Care,Shampoo 340ml,2,285,193.59,0.0,cash
+SE-0082,2025-01-28,C068,Gaya,Snacks,Namkeen Mix 400g,3,110,78.54,5.0,UPI
+SE-0083,2025-01-28,C220,Darbhanga,Snacks,Cream Biscuits 300g,3,40,28.71,5.0,UPI
+SE-0084,2025-01-28,C146,Darbhanga,Electronics Accessories,Bluetooth Earphones,1,1499,1048.12,35.0,Card
+SE-0085,2025-01-29,C122,Patna,Personal Care,Toothpaste 200g,1,110,79.04,0.0,UPI
+SE-0086,2025-01-29,C262,Gaya,Snacks,Potato Chips 150g,2,50,35.62,10.0,UPI
+SE-0087,2025-01-30,C190,Patna,Personal Care,Bathing Soap 4-pack,1,150,103.12,10.0,Card
+SE-0088,2025-01-30,C220,Patna,Grocery,Wheat Atta 5kg,4,245,200.94,0.0,UPI
+SE-0089,2025-01-31,C229,Patna,Home Care,Detergent Powder 3kg,3,380,294.28,0.0,Cash
+SE-0090,2025-01-31,C189,Muzaffarpur,Personal Care,Bathing Soap 4-pack,2,150,106.92,5.0,Card
+SE-0091,2025-02-01,C168,Darbhanga,Personal Care,Bathing Soap 4-pack,3,150,103.33,,UPI
+SE-0092,2025-02-01,C282,Muzaffarpur,Snacks,Cold Drink 2L,1,95,69.66,0.0,Card
+SE-0093,2025-02-01,C196,Muzaffarpur,Electronics Accessories,Fast Charger 20W,2,899,636.18,35.0,Card
+SE-0094,2025-02-01,C156,Gaya ,Personal Care,Toothpaste 200g,1,110,79.71,5.0,Wallet
+SE-0095,2025-02-01,C230,Patna,Grocery,Wheat Atta 5kg,1,245,201.58,0.0,Cash
+SE-0096,2025-02-01,C108,Muzaffarpur,Grocery,Wheat Atta 5kg,2,245,203.26,10.0,Cash
+SE-0097,2025-02-02,C162,Gaya,Personal Care,Toothpaste 200g,1,110,77.88,0.0,UPI
+SE-0098,2025-02-03,C033,Darbhanga,Grocery,Mustard Oil 1L,1,190,164.61,0.0,Wallet
+SE-0099,2025-02-03,C112,Darbhanga,Personal Care,Shampoo 340ml,2,285,194.81,0.0,UPI
+SE-0100,2025-02-03,C159,Bhagalpur,Home Care,Detergent Powder 3kg,1,380,301.83,0.0,Card
+SE-0101,2025-02-03,C233,Muzaffarpur,Home Care,Detergent Powder 3kg,1,380,300.59,5.0,UPI
+SE-0102,2025-02-04,C171,Patna,Snacks,Namkeen Mix 400g,2,110,80.09,0.0,UPI
+SE-0103,2025-02-05,C034,Patna,Snacks,Cold Drink 2L,2,95,70.09,0.0,Wallet
+SE-0104,2025-02-05,C029,Muzaffarpur ,Electronics Accessories,Power Bank 10000mAh,2,1299,920.05,35.0,UPI
+SE-0105,2025-02-05,C135,Patna,Snacks,Cream Biscuits 300g,1,40,29.18,5.0,UPI
+SE-0106,2025-02-05,C143,Gaya,Snacks,Cream Biscuits 300g,3,40,28.74,5.0,UPI
+SE-0107,2025-02-05,C006,Patna,Personal Care,Shampoo 340ml,4,285,195.32,5.0,UPI
+SE-0108,2025-02-06,C265,Darbhanga ,Snacks,Potato Chips 150g,5,50,35.13,5.0,UPI
+SE-0109,2025-02-06,C185,Darbhanga,Electronics Accessories,Bluetooth Earphones,1,1499,1053.51,40.0,UPI
+SE-0110,2025-02-06,C156,Patna,Personal Care,Bathing Soap 4-pack,1,150,102.97,5.0,Card
+SE-0111,2025-02-07,C123,Patna,Personal Care,Toothpaste 200g,5,110,79.78,10.0,Card
+SE-0112,2025-02-08,C150,Patna,Snacks,Cold Drink 2L,4,95,70.7,0.0,upi
+SE-0113,2025-02-08,C106,Gaya,Home Care,Detergent Powder 3kg,1,380,295.89,10.0,upi
+SE-0114,2025-02-08,C078,Darbhanga,Grocery,Wheat Atta 5kg,1,245,200.03,0.0,card
+SE-0115,2025-02-08,C028,Bhagalpur,Personal Care,Bathing Soap 4-pack,3,150,104.51,5.0,Cash
+SE-0116,2025-02-09,C106,Patna,Grocery,Basmati Rice 5kg,3,620,490.44,5.0,Card
+SE-0117,2025-02-09,C088,Muzaffarpur,Grocery,Mustard Oil 1L,2,190,164.01,10.0,Cash
+SE-0118,2025-02-10,C013,Muzaffarpur,Grocery,Arhar Dal 1kg,1,160,130.32,,Cash
+SE-0119,2025-02-11,C093,Patna ,Snacks,Cream Biscuits 300g,2,40,28.36,5.0,Cash
+SE-0120,2025-02-12,C269,Patna,Personal Care,Shampoo 340ml,1,285,195.88,5.0,Wallet
+SE-0121,2025-02-12,C085,Patna,Snacks,Namkeen Mix 400g,1,110,78.21,5.0,Cash
+SE-0122,2025-02-13,C286,Patna,Electronics Accessories,Fast Charger 20W,1,899,634.65,25.0,Card
+SE-0123,2025-02-13,C068,Patna,Snacks,Potato Chips 150g,2,50,35.21,10.0,Cash
+SE-0124,2025-02-13,C154,Patna,Snacks,Cream Biscuits 300g,3,40,29.35,10.0,UPI
+SE-0125,2025-02-15,C025,Patna,Home Care,Detergent Powder 3kg,2,380,299.88,5.0,Cash
+SE-0126,2025-02-15,C076,Patna,Personal Care,Shampoo 340ml,2,285,195.13,5.0,upi
+SE-0127,2025-02-15,C287,Bhagalpur,Grocery,Wheat Atta 5kg,1,245,201.14,0.0,Cash
+SE-0128,2025-02-15,C098,Muzaffarpur,Grocery,Wheat Atta 5kg,1,245,202.47,0.0,UPI
+SE-0129,2025-02-15,C020,Bhagalpur,Snacks,Cream Biscuits 300g,4,40,28.29,5.0,UPI
+SE-0130,2025-02-16,C239,Bhagalpur,Personal Care,Shampoo 340ml,2,285,195.48,5.0,UPI
+SE-0131,2025-02-16,C282,Muzaffarpur,Snacks,Potato Chips 150g,2,50,34.93,5.0,UPI
+SE-0132,2025-02-16,C211,Muzaffarpur,Personal Care,Toothpaste 200g,4,110,77.62,5.0,Cash
+SE-0133,2025-02-16,C168,Gaya,Snacks,Namkeen Mix 400g,2,110,80.57,0.0,Cash
+SE-0134,2025-02-17,C264,Patna,Personal Care,Toothpaste 200g,2,110,77.7,0.0,Wallet
+SE-0135,2025-02-17,C079,Muzaffarpur,Grocery,Wheat Atta 5kg,2,245,201.29,10.0,Wallet
+SE-0136,2025-02-17,C147,Gaya,Electronics Accessories,USB-C Cable 1m,1,399,277.24,40.0,UPI
+SE-0137,2025-02-17,C258,Patna,Personal Care,Bathing Soap 4-pack,3,150,103.34,0.0,Cash
+SE-0138,2025-02-18,C214,Patna,Snacks,Cream Biscuits 300g,2,40,28.43,5.0,Cash
+SE-0139,2025-02-19,C239,Darbhanga,Electronics Accessories,USB-C Cable 1m,1,399,284.54,30.0,Cash
+SE-0140,2025-02-19,C206,Muzaffarpur,Snacks,Cold Drink 2L,1,95,69.61,5.0,Cash
+SE-0141,2025-02-19,C140,Patna,Grocery,Mustard Oil 1L,1,190,165.33,0.0,Card
+SE-0142,2025-02-20,C038,Muzaffarpur,Snacks,Cold Drink 2L,2,95,71.11,0.0,Wallet
+SE-0143,2025-02-20,C221,Muzaffarpur,Snacks,Potato Chips 150g,1,50,35.39,10.0,Cash
+SE-0144,2025-02-20,C212,Bhagalpur,Personal Care,Toothpaste 200g,1,110,79.63,0.0,upi
+SE-0145,2025-02-20,C069,Patna,Grocery,Basmati Rice 5kg,2,620,498.29,0.0,Card
+SE-0146,2025-02-21,C191,Bhagalpur,Personal Care,Toothpaste 200g,1,110,78.34,0.0,Cash
+SE-0147,2025-02-22,C241,Muzaffarpur,Grocery,Wheat Atta 5kg,1,245,201.72,10.0,Wallet
+SE-0148,2025-02-22,C088,Patna,Electronics Accessories,USB-C Cable 1m,1,399,279.28,35.0,Cash
+SE-0149,2025-02-23,C066,Bhagalpur ,Grocery,Arhar Dal 1kg,4,160,128.68,10.0,Cash
+SE-0150,2025-02-23,C132,Patna,Snacks,Cold Drink 2L,1,95,70.84,10.0,Cash
+SE-0151,2025-02-23,C054,Darbhanga,Snacks,Potato Chips 150g,3,50,35.04,10.0,Card
+SE-0152,2025-02-23,C173,Patna,Electronics Accessories,Bluetooth Earphones,1,1499,1069.68,35.0,Cash
+SE-0153,2025-02-23,C266,Patna,Grocery,Basmati Rice 5kg,2,620,496.74,5.0,UPI
+SE-0154,2025-02-23,C160,Muzaffarpur,Personal Care,Shampoo 340ml,2,285,190.0,10.0,UPI
+SE-0155,2025-02-24,C268,Bhagalpur,Snacks,Potato Chips 150g,2,50,34.38,10.0,UPI
+SE-0156,2025-02-25,C187,Darbhanga,Personal Care,Toothpaste 200g,4,110,78.88,0.0,UPI
+SE-0157,2025-02-25,C162,Darbhanga,Snacks,Potato Chips 150g,1,50,35.21,10.0,upi
+SE-0158,2025-02-25,C065,Bhagalpur,Personal Care,Bathing Soap 4-pack,2,150,103.26,5.0,Card
+SE-0159,2025-02-27,C033,Patna,Grocery,Basmati Rice 5kg,5,620,498.67,10.0,UPI
+SE-0160,2025-02-27,C064,Darbhanga,Snacks,Cold Drink 2L,2,95,71.07,5.0,UPI
+SE-0161,2025-02-27,C196,Bhagalpur,Home Care,Detergent Powder 3kg,2,380,301.27,5.0,Cash
+SE-0162,2025-02-28,C087,Bhagalpur,Snacks,Potato Chips 150g,1,50,34.35,10.0,Cash
+SE-0163,2025-03-01,C269,Muzaffarpur,Personal Care,Bathing Soap 4-pack,2,150,107.06,10.0,UPI
+SE-0164,2025-03-01,C256,Patna,Personal Care,Toothpaste 200g,2,110,77.87,0.0,Cash
+SE-0165,2025-03-01,C095,Muzaffarpur,Personal Care,Bathing Soap 4-pack,1,150,106.27,5.0,UPI
+SE-0166,2025-03-02,C231,Bhagalpur,Electronics Accessories,USB-C Cable 1m,1,399,276.52,30.0,UPI
+SE-0167,2025-03-02,C165,Gaya,Snacks,Namkeen Mix 400g,4,110,78.32,0.0,UPI
+SE-0168,2025-03-02,C072,Patna,Snacks,Cream Biscuits 300g,2,40,28.48,0.0,Card
+SE-0169,2025-03-03,C124,Muzaffarpur,Snacks,Cream Biscuits 300g,3,40,28.64,0.0,Card
+SE-0170,2025-03-03,C017,Patna,Personal Care,Bathing Soap 4-pack,4,150,104.54,5.0,Card
+SE-0171,2025-03-03,C015,Muzaffarpur,Personal Care,Bathing Soap 4-pack,3,150,106.79,0.0,UPI
+SE-0172,2025-03-03,C168,Gaya,Personal Care,Shampoo 340ml,1,285,192.87,5.0,UPI
+SE-0173,2025-03-04,C242,Gaya,Snacks,Potato Chips 150g,2,50,35.69,5.0,upi
+SE-0174,2025-03-04,C041,Darbhanga,Grocery,Wheat Atta 5kg,1,245,201.39,5.0,UPI
+SE-0175,2025-03-05,C102,Patna,Electronics Accessories,Bluetooth Earphones,2,1499,1050.89,25.0,Card
+SE-0176,2025-03-05,C296,Darbhanga ,Personal Care,Shampoo 340ml,1,285,195.28,10.0,Card
+SE-0177,2025-03-06,C256,Bhagalpur,Personal Care,Toothpaste 200g,1,110,80.02,10.0,Card
+SE-0178,2025-03-07,C164,Patna,Grocery,Arhar Dal 1kg,1,160,128.05,0.0,UPI
+SE-0179,2025-03-08,C275,Patna,Electronics Accessories,Power Bank 10000mAh,1,1299,892.82,40.0,Cash
+SE-0180,2025-03-08,C263,Muzaffarpur,Home Care,Floor Cleaner 1L,2,190,138.37,0.0,Cash
+SE-0181,2025-03-08,C121,Patna,Home Care,Detergent Powder 3kg,2,380,301.41,0.0,Card
+SE-0182,2025-03-08,C152,Darbhanga ,Personal Care,Bathing Soap 4-pack,1,150,104.68,0.0,UPI
+SE-0183,2025-03-08,C133,Bhagalpur,Snacks,Potato Chips 150g,1,50,35.56,5.0,Cash
+SE-0184,2025-03-08,C240,Muzaffarpur,Home Care,Detergent Powder 3kg,2,380,295.72,0.0,UPI
+SE-0185,2025-03-09,C133,Gaya,Snacks,Cream Biscuits 300g,2,40,28.72,0.0,Cash
+SE-0186,2025-03-09,C047,Patna,Grocery,Mustard Oil 1L,3,190,165.53,10.0,Cash
+SE-0187,2025-03-09,C093,Bhagalpur,Personal Care,Toothpaste 200g,2,110,80.77,0.0,Cash
+SE-0188,2025-03-10,C128,Muzaffarpur,Snacks,Cream Biscuits 300g,1,40,28.6,10.0,Cash
+SE-0189,2025-03-10,C068,Muzaffarpur,Electronics Accessories,Fast Charger 20W,1,899,638.43,25.0,UPI
+SE-0190,2025-03-10,C114,Darbhanga,Snacks,Namkeen Mix 400g,1,110,80.35,0.0,Cash
+SE-0191,2025-03-10,C208,Bhagalpur,Snacks,Namkeen Mix 400g,3,110,80.56,5.0,UPI
+SE-0192,2025-03-12,C247,Gaya,Grocery,Wheat Atta 5kg,3,245,204.16,5.0,UPI
+SE-0193,2025-03-12,C125,Muzaffarpur,Grocery,Arhar Dal 1kg,3,160,127.79,0.0,Cash
+SE-0194,2025-03-12,C097,Gaya,Snacks,Cold Drink 2L,1,95,71.04,10.0,Card
+SE-0195,2025-03-12,C249,Patna,Snacks,Potato Chips 150g,2,50,35.29,10.0,UPI
+SE-0196,2025-03-12,C257,Darbhanga,Electronics Accessories,USB-C Cable 1m,1,399,280.16,30.0,UPI
+SE-0197,2025-03-13,C294,Gaya,Snacks,Namkeen Mix 400g,2,110,80.43,0.0,Cash
+SE-0198,2025-03-13,C289,Patna,Electronics Accessories,USB-C Cable 1m,1,399,284.54,40.0,UPI
+SE-0199,2025-03-13,C160,Darbhanga,Electronics Accessories,USB-C Cable 1m,1,399,280.46,40.0,Cash
+SE-0200,2025-03-13,C061,Darbhanga,Snacks,Namkeen Mix 400g,2,110,77.99,5.0,UPI
+SE-0201,2025-03-14,C143,Muzaffarpur,Grocery,Arhar Dal 1kg,5,160,129.62,0.0,Cash
+SE-0202,2025-03-14,C078,Muzaffarpur,Grocery,Wheat Atta 5kg,2,245,201.85,0.0,UPI
+SE-0203,2025-03-15,C012,Gaya,Grocery,Basmati Rice 5kg,3,620,486.19,10.0,UPI
+SE-0204,2025-03-15,C005,Darbhanga,Snacks,Cream Biscuits 300g,1,40,28.98,5.0,UPI
+SE-0205,2025-03-15,C006,Gaya,Grocery,Basmati Rice 5kg,2,620,503.14,10.0,UPI
+SE-0206,2025-03-16,C034,Darbhanga,Personal Care,Shampoo 340ml,3,285,196.04,5.0,Cash
+SE-0207,2025-03-16,C170,Darbhanga,Snacks,Potato Chips 150g,2,50,34.75,10.0,UPI
+SE-0208,2025-03-17,C010,Muzaffarpur,Snacks,Cold Drink 2L,2,95,71.34,0.0,UPI
+SE-0209,2025-03-17,C052,Gaya,Grocery,Basmati Rice 5kg,3,620,498.46,0.0,UPI
+SE-0210,2025-03-17,C150,Patna ,Snacks,Cream Biscuits 300g,1,40,28.83,5.0,UPI
+SE-0211,2025-03-17,C266,Bhagalpur,Grocery,Arhar Dal 1kg,2,160,126.79,0.0,Card
+SE-0212,2025-03-18,C287,Patna,Grocery,Basmati Rice 5kg,2,620,500.15,5.0,Cash
+SE-0213,2025-03-19,C162,Muzaffarpur,Home Care,Detergent Powder 3kg,1,380,291.6,5.0,UPI
+SE-0214,2025-03-19,C251,Bhagalpur,Snacks,Cold Drink 2L,1,95,70.11,0.0,UPI
+SE-0215,2025-03-19,C116,Muzaffarpur,Snacks,Cold Drink 2L,1,95,70.66,10.0,Wallet
+SE-0216,2025-03-19,C140,Darbhanga,Snacks,Namkeen Mix 400g,3,110,80.5,0.0,Cash
+SE-0217,2025-03-20,C014,Gaya,Personal Care,Bathing Soap 4-pack,2,150,105.46,0.0,Cash
+SE-0218,2025-03-20,C220,Muzaffarpur,Snacks,Potato Chips 150g,2,50,34.8,5.0,UPI
+SE-0219,2025-03-20,C282,Muzaffarpur,Snacks,Cream Biscuits 300g,3,40,28.77,5.0,Card
+SE-0220,2025-03-21,C141,Bhagalpur,Snacks,Potato Chips 150g,1,50,35.37,5.0,Cash
+SE-0221,2025-03-21,C180,Muzaffarpur,Electronics Accessories,Bluetooth Earphones,1,1499,1053.18,40.0,Cash
+SE-0222,2025-03-21,C291,Gaya,Personal Care,Toothpaste 200g,2,110,78.9,5.0,Card
+SE-0223,2025-03-21,C300,Gaya,Home Care,Detergent Powder 3kg,2,380,299.47,0.0,Cash
+SE-0224,2025-03-21,C051,Patna,Snacks,Potato Chips 150g,1,50,35.24,0.0,UPI
+SE-0225,2025-03-21,C034,Darbhanga,Personal Care,Bathing Soap 4-pack,1,150,105.6,5.0,Card
+SE-0226,2025-03-21,C002,Patna,Personal Care,Toothpaste 200g,1,110,79.85,10.0,Cash
+SE-0227,2025-03-22,C010,Patna ,Snacks,Namkeen Mix 400g,1,110,79.28,10.0,UPI
+SE-0228,2025-03-22,C171,Bhagalpur,Snacks,Potato Chips 150g,2,50,35.69,0.0,Card
+SE-0229,2025-03-22,C205,Patna,Electronics Accessories,Fast Charger 20W,1,899,631.36,40.0,Cash
+SE-0230,2025-03-22,C069,Patna,Snacks,Namkeen Mix 400g,1,110,78.91,5.0,Card
+SE-0231,2025-03-22,C168,Gaya ,Snacks,Cold Drink 2L,2,95,70.67,0.0,Card
+SE-0232,2025-03-22,C228,Gaya,Grocery,Basmati Rice 5kg,3,620,495.86,5.0,UPI
+SE-0233,2025-03-23,C008,Darbhanga,Grocery,Basmati Rice 5kg,2,620,492.88,5.0,Cash
+SE-0234,2025-03-23,C249,Bhagalpur,Grocery,Arhar Dal 1kg,2,160,125.75,0.0,Card
+SE-0235,2025-03-23,C284,Gaya,Grocery,Mustard Oil 1L,4,190,166.36,0.0,UPI
+SE-0236,2025-03-23,C224,Patna,Snacks,Namkeen Mix 400g,3,110,78.31,0.0,UPI
+SE-0237,2025-03-23,C034,Darbhanga,Snacks,Cream Biscuits 300g,2,40,29.26,0.0,upi
+SE-0238,2025-03-24,C242,Patna,Home Care,Floor Cleaner 1L,4,190,139.71,5.0,Cash
+SE-0239,2025-03-24,C059,Bhagalpur,Grocery,Mustard Oil 1L,1,190,162.5,10.0,Card
+SE-0240,2025-03-24,C181,Bhagalpur,Snacks,Cold Drink 2L,4,95,70.76,0.0,UPI
+SE-0241,2025-03-25,C197,Patna,Electronics Accessories,USB-C Cable 1m,1,399,274.53,35.0,UPI
+SE-0242,2025-03-25,C267,Muzaffarpur,Personal Care,Shampoo 340ml,2,285,195.04,0.0,UPI
+SE-0243,2025-03-25,C158,Patna,Snacks,Cold Drink 2L,1,95,70.1,0.0,Cash
+SE-0244,2025-03-25,C162,Muzaffarpur,Snacks,Namkeen Mix 400g,3,110,79.39,5.0,UPI
+SE-0245,2025-03-26,C252,Patna,Snacks,Cold Drink 2L,2,95,71.07,5.0,UPI
+SE-0246,2025-03-26,C038,Gaya,Personal Care,Toothpaste 200g,3,110,79.02,0.0,Cash
+SE-0247,2025-03-26,C045,Darbhanga,Grocery,Mustard Oil 1L,1,190,167.52,0.0,Wallet
+SE-0248,2025-03-26,C080,Muzaffarpur,Home Care,Detergent Powder 3kg,1,380,297.35,5.0,UPI
+SE-0249,2025-03-27,C026,Bhagalpur,Grocery,Mustard Oil 1L,2,190,166.16,5.0,Cash
+SE-0250,2025-03-28,C225,Bhagalpur,Personal Care,Toothpaste 200g,2,110,80.09,5.0,Cash
+SE-0251,2025-03-28,C250,Gaya,Grocery,Mustard Oil 1L,1,190,163.27,5.0,Card
+SE-0252,2025-03-28,C186,Patna,Snacks,Cream Biscuits 300g,2,40,28.84,10.0,Card
+SE-0253,2025-03-29,C153,Gaya,Snacks,Namkeen Mix 400g,3,110,78.14,0.0,UPI
+SE-0254,2025-03-29,C198,Patna,Personal Care,Shampoo 340ml,2,285,193.88,10.0,Cash
+SE-0255,2025-03-29,C293,Patna,Snacks,Namkeen Mix 400g,5,110,77.97,0.0,Cash
+SE-0256,2025-03-29,C090,Patna,Personal Care,Bathing Soap 4-pack,4,150,106.69,0.0,UPI
+SE-0257,2025-03-29,C254,Patna,Grocery,Basmati Rice 5kg,3,620,504.93,0.0,UPI
+SE-0258,2025-03-29,C200,Patna,Personal Care,Toothpaste 200g,1,110,78.59,5.0,UPI
+SE-0259,2025-03-29,C023,Muzaffarpur,Snacks,Cold Drink 2L,2,95,69.23,5.0,Card
+SE-0260,2025-03-30,C275,Patna,Personal Care,Toothpaste 200g,4,110,79.83,5.0,Cash
+SE-0261,2025-03-31,C095,Gaya,Personal Care,Bathing Soap 4-pack,1,150,106.16,10.0,Card
+SE-0262,2025-03-31,C006,Patna,Electronics Accessories,Bluetooth Earphones,1,1499,1061.37,25.0,Card
+SE-0263,2025-03-31,C216,Bhagalpur,Home Care,Detergent Powder 3kg,3,380,290.99,10.0,Cash
+SE-0264,2025-04-01,C038,Muzaffarpur,Snacks,Cold Drink 2L,3,95,69.91,0.0,UPI
+SE-0265,2025-04-01,C251,Patna,Personal Care,Shampoo 340ml,5,285,196.38,10.0,Cash
+SE-0266,2025-04-01,C087,Gaya,Grocery,Wheat Atta 5kg,1,245,204.47,0.0,UPI
+SE-0267,2025-04-01,C146,Muzaffarpur,Grocery,Wheat Atta 5kg,1,245,197.83,0.0,UPI
+SE-0268,2025-04-02,C283,Patna,Grocery,Wheat Atta 5kg,1,245,196.91,5.0,Cash
+SE-0269,2025-04-02,C159,Bhagalpur,Home Care,Detergent Powder 3kg,3,380,297.26,5.0,Card
+SE-0270,2025-04-02,C059,Bhagalpur,Snacks,Cold Drink 2L,1,95,70.24,5.0,UPI
+SE-0271,2025-04-03,C285,Muzaffarpur,Home Care,Floor Cleaner 1L,2,190,138.94,5.0,UPI
+SE-0272,2025-04-04,C087,Gaya,Snacks,Namkeen Mix 400g,5,110,79.07,5.0,UPI
+SE-0273,2025-04-04,C243,Patna,Snacks,Namkeen Mix 400g,3,110,79.19,5.0,Card
+SE-0274,2025-04-04,C090,Gaya,Home Care,Floor Cleaner 1L,2,190,142.56,5.0,Cash
+SE-0275,2025-04-04,C122,Patna,Grocery,Arhar Dal 1kg,3,160,127.91,10.0,UPI
+SE-0276,2025-04-05,C174,Patna,Personal Care,Toothpaste 200g,5,110,80.2,5.0,UPI
+SE-0277,2025-04-05,C024,Gaya,Personal Care,Shampoo 340ml,2,285,191.92,5.0,Card
+SE-0278,2025-04-05,C011,Gaya,Snacks,Potato Chips 150g,1,50,34.63,0.0,UPI
+SE-0279,2025-04-06,C215,Bhagalpur,Personal Care,Shampoo 340ml,1,285,190.21,0.0,UPI
+SE-0280,2025-04-06,C194,Muzaffarpur,Snacks,Cream Biscuits 300g,4,40,28.69,10.0,UPI
+SE-0281,2025-04-06,C071,Muzaffarpur ,Snacks,Namkeen Mix 400g,1,110,80.35,0.0,UPI
+SE-0282,2025-04-06,C296,Gaya,Grocery,Mustard Oil 1L,1,190,163.28,5.0,UPI
+SE-0283,2025-04-06,C037,Darbhanga,Personal Care,Toothpaste 200g,3,110,79.3,10.0,Cash
+SE-0284,2025-04-06,C064,Bhagalpur,Personal Care,Shampoo 340ml,3,285,196.36,5.0,Cash
+SE-0285,2025-04-06,C297,Gaya,Grocery,Basmati Rice 5kg,3,620,497.83,0.0,UPI
+SE-0286,2025-04-06,C124,Muzaffarpur,Snacks,Cream Biscuits 300g,3,40,28.69,5.0,Card
+SE-0287,2025-04-06,C260,Darbhanga,Personal Care,Shampoo 340ml,5,285,192.48,0.0,UPI
+SE-0288,2025-04-07,C097,Patna,Snacks,Cream Biscuits 300g,4,40,29.14,5.0,wallet
+SE-0289,2025-04-07,C011,Darbhanga,Electronics Accessories,USB-C Cable 1m,1,399,274.86,35.0,Card
+SE-0290,2025-04-08,C136,Darbhanga,Grocery,Wheat Atta 5kg,1,245,197.41,0.0,Card
+SE-0291,2025-04-08,C164,Patna,Grocery,Mustard Oil 1L,3,190,166.84,0.0,Card
+SE-0292,2025-04-08,C100,Muzaffarpur,Grocery,Mustard Oil 1L,2,190,166.01,0.0,Card
+SE-0293,2025-04-08,C075,Muzaffarpur,Home Care,Detergent Powder 3kg,5,380,301.32,0.0,Cash
+SE-0294,2025-04-09,C051,Patna,Snacks,Cold Drink 2L,1,95,71.34,0.0,Cash
+SE-0295,2025-04-10,C102,Gaya,Grocery,Basmati Rice 5kg,1,620,496.81,10.0,Card
+SE-0296,2025-04-10,C077,Muzaffarpur,Personal Care,Shampoo 340ml,1,285,190.55,0.0,UPI
+SE-0297,2025-04-11,C107,Bhagalpur,Personal Care,Toothpaste 200g,3,110,78.77,5.0,upi
+SE-0298,2025-04-11,C041,Patna,Snacks,Cream Biscuits 300g,2,40,29.27,10.0,Cash
+SE-0299,2025-04-11,C274,Bhagalpur,Snacks,Cream Biscuits 300g,2,40,29.29,5.0,Card
+SE-0300,2025-04-12,C209,Muzaffarpur,Grocery,Wheat Atta 5kg,1,245,199.99,5.0,UPI
+SE-0301,2025-04-12,C164,Muzaffarpur,Snacks,Cold Drink 2L,1,95,70.02,0.0,Cash
+SE-0302,2025-04-12,C063,Muzaffarpur,Personal Care,Shampoo 340ml,1,285,192.92,0.0,UPI
+SE-0303,2025-04-12,C015,Bhagalpur,Personal Care,Bathing Soap 4-pack,2,150,106.17,5.0,Cash
+SE-0304,2025-04-13,C168,Patna,Personal Care,Bathing Soap 4-pack,2,150,106.39,,Cash
+SE-0305,2025-04-13,C081,Patna,Snacks,Potato Chips 150g,3,50,34.6,0.0,Card
+SE-0306,2025-04-13,C109,Patna,Grocery,Basmati Rice 5kg,1,620,502.81,5.0,Card
+SE-0307,2025-04-14,C264,Patna,Personal Care,Toothpaste 200g,2,110,78.51,10.0,Cash
+SE-0308,2025-04-14,C081,Darbhanga,Snacks,Cold Drink 2L,1,95,71.1,5.0,upi
+SE-0309,2025-04-14,C055,Patna,Snacks,Potato Chips 150g,1,50,35.38,5.0,Cash
+SE-0310,2025-04-14,C225,Patna,Personal Care,Bathing Soap 4-pack,1,150,106.86,5.0,UPI
+SE-0311,2025-04-15,C298,Patna,Grocery,Arhar Dal 1kg,1,160,127.41,5.0,UPI
+SE-0312,2025-04-15,C027,Patna,Electronics Accessories,USB-C Cable 1m,1,399,284.84,30.0,Cash
+SE-0313,2025-04-15,C167,Patna,Grocery,Wheat Atta 5kg,2,245,197.65,5.0,upi
+SE-0314,2025-04-17,C248,Gaya,Electronics Accessories,USB-C Cable 1m,1,399,273.98,35.0,Wallet
+SE-0315,2025-04-17,C179,Bhagalpur,Snacks,Namkeen Mix 400g,2,110,79.72,5.0,Cash
+SE-0316,2025-04-17,C006,Patna,Grocery,Wheat Atta 5kg,2,245,197.33,5.0,UPI
+SE-0317,2025-04-17,C022,Patna,Electronics Accessories,USB-C Cable 1m,1,399,281.15,30.0,UPI
+SE-0318,2025-04-18,C291,Patna,Snacks,Cream Biscuits 300g,2,40,28.73,5.0,UPI
+SE-0319,2025-04-18,C162,Bhagalpur,Electronics Accessories,USB-C Cable 1m,1,399,281.16,40.0,Cash
+SE-0320,2025-04-18,C281,Patna,Grocery,Arhar Dal 1kg,3,160,127.1,0.0,UPI
+SE-0321,2025-04-19,C156,Muzaffarpur,Snacks,Namkeen Mix 400g,5,110,79.56,0.0,Cash
+SE-0322,2025-04-19,C087,Patna,Grocery,Wheat Atta 5kg,1,245,199.09,0.0,Card
+SE-0323,2025-04-19,C020,Gaya,Snacks,Potato Chips 150g,2,50,35.32,5.0,Cash
+SE-0324,2025-04-19,C047,Patna ,Snacks,Cream Biscuits 300g,2,40,28.72,5.0,UPI
+SE-0325,2025-04-19,C044,Muzaffarpur,Electronics Accessories,Power Bank 10000mAh,1,1299,915.64,35.0,upi
+SE-0326,2025-04-20,C217,Patna,Snacks,Cold Drink 2L,1,95,69.74,5.0,UPI
+SE-0327,2025-04-20,C059,Bhagalpur,Home Care,Floor Cleaner 1L,3,190,140.03,0.0,Card
+SE-0328,2025-04-20,C088,Bhagalpur,Home Care,Floor Cleaner 1L,2,190,142.1,5.0,Card
+SE-0329,2025-04-20,C007,Darbhanga,Snacks,Potato Chips 150g,2,50,35.42,0.0,Cash
+SE-0330,2025-04-20,C276,Gaya,Snacks,Cream Biscuits 300g,1,40,29.23,0.0,UPI
+SE-0331,2025-04-20,C247,Muzaffarpur,Snacks,Cream Biscuits 300g,2,40,28.45,5.0,Cash
+SE-0332,2025-04-21,C091,Muzaffarpur,Grocery,Mustard Oil 1L,3,190,163.3,5.0,Card
+SE-0333,2025-04-22,C207,Darbhanga,Electronics Accessories,USB-C Cable 1m,1,399,283.88,25.0,UPI
+SE-0334,2025-04-22,C295,Muzaffarpur,Home Care,Detergent Powder 3kg,2,380,300.06,10.0,Card
+SE-0335,2025-04-23,C115,Patna,Snacks,Cold Drink 2L,4,95,71.09,5.0,Cash
+SE-0336,2025-04-23,C276,Patna,Snacks,Cold Drink 2L,3,95,71.06,5.0,UPI
+SE-0337,2025-04-23,C090,Bhagalpur,Snacks,Cream Biscuits 300g,4,40,28.61,5.0,UPI
+SE-0338,2025-04-24,C208,Muzaffarpur,Snacks,Potato Chips 150g,1,50,34.88,0.0,Cash
+SE-0339,2025-04-24,C003,Muzaffarpur,Grocery,Arhar Dal 1kg,2,160,128.07,5.0,Wallet
+SE-0340,2025-04-24,C088,Patna,Grocery,Arhar Dal 1kg,1,160,127.48,0.0,Cash
+SE-0341,2025-04-24,C247,Patna,Grocery,Wheat Atta 5kg,1,245,203.51,10.0,Cash
+SE-0342,2025-04-24,C117,Bhagalpur,Snacks,Potato Chips 150g,2,50,35.68,0.0,UPI
+SE-0343,2025-04-25,C121,Patna,Snacks,Namkeen Mix 400g,3,110,79.44,0.0,Wallet
+SE-0344,2025-04-25,C123,Bhagalpur,Home Care,Detergent Powder 3kg,3,380,290.89,0.0,UPI
+SE-0345,2025-04-25,C001,Muzaffarpur,Personal Care,Toothpaste 200g,1,110,77.99,5.0,UPI
+SE-0346,2025-04-26,C082,Bhagalpur,Grocery,Basmati Rice 5kg,1,620,498.66,0.0,upi
+SE-0347,2025-04-26,C206,Bhagalpur,Snacks,Cream Biscuits 300g,2,40,28.23,0.0,UPI
+SE-0348,2025-04-27,C268,Bhagalpur,Grocery,Basmati Rice 5kg,2,620,498.66,5.0,UPI
+SE-0349,2025-04-27,C289,Muzaffarpur,Home Care,Detergent Powder 3kg,2,380,299.8,5.0,UPI
+SE-0350,2025-04-27,C184,Darbhanga,Electronics Accessories,USB-C Cable 1m,1,399,278.65,40.0,Card
+SE-0351,2025-04-27,C272,Patna ,Home Care,Detergent Powder 3kg,2,380,298.54,0.0,UPI
+SE-0352,2025-04-27,C203,Muzaffarpur,Snacks,Cold Drink 2L,4,95,70.78,5.0,Card
+SE-0353,2025-04-28,C016,Patna,Personal Care,Toothpaste 200g,3,110,80.48,5.0,UPI
+SE-0354,2025-04-28,C176,Patna,Grocery,Basmati Rice 5kg,1,620,490.86,0.0,upi
+SE-0355,2025-04-28,C016,Patna,Snacks,Cold Drink 2L,2,95,71.61,0.0,Card
+SE-0356,2025-04-28,C288,Muzaffarpur,Grocery,Basmati Rice 5kg,1,620,493.7,5.0,Cash
+SE-0357,2025-04-29,C203,Muzaffarpur ,Grocery,Wheat Atta 5kg,2,245,199.48,5.0,Card
+SE-0358,2025-04-29,C257,Patna,Snacks,Namkeen Mix 400g,1,110,78.74,0.0,UPI
+SE-0359,2025-04-29,C070,Patna,Home Care,Detergent Powder 3kg,3,380,298.55,5.0,Cash
+SE-0360,2025-04-30,C243,Bhagalpur,Personal Care,Toothpaste 200g,2,110,78.45,0.0,UPI
+SE-0361,2025-04-30,C192,Patna ,Home Care,Floor Cleaner 1L,4,190,140.61,5.0,Card
+SE-0362,2025-05-01,C003,Patna,Personal Care,Toothpaste 200g,5,110,80.49,0.0,Card
+SE-0363,2025-05-01,C237,Darbhanga,Grocery,Wheat Atta 5kg,3,245,204.7,0.0,UPI
+SE-0364,2025-05-01,C117,Muzaffarpur,Snacks,Cream Biscuits 300g,2,40,28.6,0.0,UPI
+SE-0365,2025-05-01,C264,Patna,Personal Care,Toothpaste 200g,2,110,79.18,0.0,UPI
+SE-0366,2025-05-01,C044,Patna,Personal Care,Toothpaste 200g,2,110,80.22,5.0,UPI
+SE-0367,2025-05-01,C036,Patna,Grocery,Arhar Dal 1kg,4,160,127.49,10.0,Cash
+SE-0368,2025-05-01,C184,Patna ,Grocery,Wheat Atta 5kg,1,245,197.12,10.0,UPI
+SE-0369,2025-05-01,C025,Patna,Snacks,Cream Biscuits 300g,1,40,28.54,5.0,upi
+SE-0370,2025-05-02,C248,Muzaffarpur,Electronics Accessories,Bluetooth Earphones,2,1499,1042.49,25.0,UPI
+SE-0371,2025-05-03,C168,Patna,Snacks,Cold Drink 2L,3,95,70.09,5.0,Cash
+SE-0372,2025-05-03,C189,Patna,Electronics Accessories,USB-C Cable 1m,1,399,282.51,35.0,card
+SE-0373,2025-05-03,C268,Gaya,Personal Care,Bathing Soap 4-pack,2,150,103.85,5.0,Card
+SE-0374,2025-05-03,C159,Patna,Personal Care,Bathing Soap 4-pack,2,150,104.09,0.0,UPI
+SE-0375,2025-05-03,C125,Muzaffarpur,Personal Care,Toothpaste 200g,2,110,80.64,5.0,UPI
+SE-0376,2025-05-03,C252,Patna,Snacks,Cream Biscuits 300g,1,40,29.25,5.0,UPI
+SE-0377,2025-05-03,C037,Darbhanga ,Grocery,Mustard Oil 1L,3,190,166.49,0.0,UPI
+SE-0378,2025-05-03,C039,Muzaffarpur,Personal Care,Bathing Soap 4-pack,1,150,104.53,0.0,UPI
+SE-0379,2025-05-03,C188,Darbhanga,Snacks,Cream Biscuits 300g,1,40,28.7,5.0,UPI
+SE-0380,2025-05-03,C054,Patna,Snacks,Potato Chips 150g,1,50,34.57,0.0,Wallet
+SE-0381,2025-05-04,C077,Darbhanga,Personal Care,Toothpaste 200g,2,110,80.16,5.0,UPI
+SE-0382,2025-05-04,C163,Gaya ,Personal Care,Toothpaste 200g,3,110,79.55,5.0,Card
+SE-0383,2025-05-04,C175,Patna,Home Care,Detergent Powder 3kg,1,380,290.87,0.0,UPI
+SE-0384,2025-05-05,C196,Gaya,Personal Care,Bathing Soap 4-pack,4,150,103.14,0.0,UPI
+SE-0385,2025-05-05,C300,Darbhanga,Snacks,Potato Chips 150g,2,50,34.41,5.0,Card
+SE-0386,2025-05-06,C299,Muzaffarpur,Snacks,Namkeen Mix 400g,1,110,78.34,10.0,UPI
+SE-0387,2025-05-06,C289,Bhagalpur,Grocery,Arhar Dal 1kg,1,160,127.33,5.0,Card
+SE-0388,2025-05-07,C210,Patna,Electronics Accessories,Bluetooth Earphones,1,1499,1048.56,35.0,upi
+SE-0389,2025-05-07,C287,Patna,Snacks,Cream Biscuits 300g,3,40,29.34,5.0,card
+SE-0390,2025-05-07,C098,Darbhanga,Electronics Accessories,USB-C Cable 1m,1,399,277.4,30.0,UPI
+SE-0391,2025-05-07,C136,Darbhanga,Grocery,Arhar Dal 1kg,4,160,128.73,5.0,Cash
+SE-0392,2025-05-07,C297,Patna,Snacks,Potato Chips 150g,2,50,34.9,0.0,UPI
+SE-0393,2025-05-08,C179,Patna,Grocery,Arhar Dal 1kg,3,160,128.04,0.0,Cash
+SE-0394,2025-05-08,C143,Patna,Snacks,Potato Chips 150g,2,50,35.23,0.0,UPI
+SE-0395,2025-05-08,C002,Patna ,Personal Care,Bathing Soap 4-pack,2,150,103.47,10.0,UPI
+SE-0396,2025-05-09,C225,Gaya,Personal Care,Toothpaste 200g,1,110,78.69,10.0,UPI
+SE-0397,2025-05-09,C179,Darbhanga,Grocery,Arhar Dal 1kg,1,160,130.42,0.0,UPI
+SE-0398,2025-05-09,C067,Gaya,Home Care,Detergent Powder 3kg,2,380,292.59,0.0,Cash
+SE-0399,2025-05-09,C020,Muzaffarpur,Home Care,Floor Cleaner 1L,3,190,139.29,5.0,upi
+SE-0400,2025-05-09,C225,Patna,Snacks,Cream Biscuits 300g,1,40,28.78,5.0,Wallet
+SE-0401,2025-05-10,C255,Gaya,Grocery,Basmati Rice 5kg,2,620,494.77,0.0,Cash
+SE-0402,2025-05-10,C214,Darbhanga ,Snacks,Cream Biscuits 300g,2,40,28.5,5.0,UPI
+SE-0403,2025-05-10,C009,Muzaffarpur,Snacks,Potato Chips 150g,3,50,35.43,5.0,Wallet
+SE-0404,2025-05-10,C222,Gaya,Personal Care,Bathing Soap 4-pack,2,150,106.63,0.0,UPI
+SE-0405,2025-05-11,C183,Bhagalpur,Snacks,Cream Biscuits 300g,3,40,28.66,10.0,Card
+SE-0406,2025-05-11,C057,Patna,Electronics Accessories,Fast Charger 20W,1,899,629.28,40.0,Card
+SE-0407,2025-05-11,C169,Muzaffarpur,Grocery,Wheat Atta 5kg,1,245,197.72,5.0,UPI
+SE-0408,2025-05-11,C196,Muzaffarpur,Grocery,Arhar Dal 1kg,2,160,130.22,5.0,Cash
+SE-0409,2025-05-12,C110,Muzaffarpur,Electronics Accessories,Power Bank 10000mAh,1,1299,916.73,35.0,Card
+SE-0410,2025-05-12,C136,Muzaffarpur,Personal Care,Toothpaste 200g,2,110,79.99,5.0,Wallet
+SE-0411,2025-05-12,C048,Patna,Snacks,Potato Chips 150g,1,50,34.78,10.0,Cash
+SE-0412,2025-05-12,C042,Bhagalpur,Grocery,Mustard Oil 1L,2,190,162.07,5.0,Cash
+SE-0413,2025-05-12,C022,Bhagalpur,Grocery,Wheat Atta 5kg,3,245,200.97,0.0,UPI
+SE-0414,2025-05-12,C247,Patna,Grocery,Arhar Dal 1kg,2,160,129.05,5.0,Cash
+SE-0415,2025-05-12,C154,Patna,Grocery,Arhar Dal 1kg,3,160,127.74,10.0,upi
+SE-0416,2025-05-13,C017,Muzaffarpur,Grocery,Mustard Oil 1L,1,190,162.38,10.0,Card
+SE-0417,2025-05-13,C058,Darbhanga,Home Care,Detergent Powder 3kg,3,380,294.63,0.0,Cash
+SE-0418,2025-05-13,C072,Gaya,Grocery,Basmati Rice 5kg,3,620,492.96,5.0,UPI
+SE-0419,2025-05-13,C004,Patna,Snacks,Namkeen Mix 400g,1,110,79.17,0.0,Cash
+SE-0420,2025-05-14,C090,Muzaffarpur,Grocery,Wheat Atta 5kg,1,245,202.7,5.0,upi
+SE-0421,2025-05-15,C293,Muzaffarpur,Electronics Accessories,Fast Charger 20W,1,899,629.97,35.0,Cash
+SE-0422,2025-05-15,C038,Patna ,Grocery,Arhar Dal 1kg,2,160,127.89,0.0,Cash
+SE-0423,2025-05-15,C156,Patna,Snacks,Namkeen Mix 400g,2,110,78.84,10.0,UPI
+SE-0424,2025-05-15,C215,Muzaffarpur,Grocery,Wheat Atta 5kg,1,245,198.86,5.0,Cash
+SE-0425,2025-05-16,C042,Muzaffarpur,Grocery,Basmati Rice 5kg,2,620,491.66,5.0,UPI
+SE-0425,2025-05-16,C042,Muzaffarpur,Grocery,Basmati Rice 5kg,2,620,491.66,5.0,UPI
+SE-0426,2025-05-16,C220,Patna,Snacks,Cream Biscuits 300g,2,40,28.97,5.0,Cash
+SE-0427,2025-05-16,C271,Patna,Home Care,Detergent Powder 3kg,2,380,291.46,5.0,Cash
+SE-0428,2025-05-18,C180,Patna,Snacks,Cold Drink 2L,3,95,71.12,10.0,UPI
+SE-0429,2025-05-18,C210,Gaya,Snacks,Cold Drink 2L,2,95,71.26,0.0,Card
+SE-0430,2025-05-18,C039,Darbhanga,Electronics Accessories,Fast Charger 20W,1,899,620.34,25.0,card
+SE-0431,2025-05-18,C124,Patna,Home Care,Detergent Powder 3kg,2,380,301.09,5.0,Card
+SE-0432,2025-05-19,C163,Patna,Snacks,Cream Biscuits 300g,2,40,29.25,0.0,Cash
+SE-0433,2025-05-19,C084,Patna,Personal Care,Bathing Soap 4-pack,3,150,103.81,0.0,Cash
+SE-0434,2025-05-20,C237,Patna,Snacks,Potato Chips 150g,2,50,35.41,5.0,UPI
+SE-0435,2025-05-20,C280,Muzaffarpur,Personal Care,Bathing Soap 4-pack,4,150,103.86,5.0,Card
+SE-0436,2025-05-20,C179,Bhagalpur,Home Care,Floor Cleaner 1L,1,190,140.22,10.0,Wallet
+SE-0437,2025-05-21,C237,Darbhanga,Snacks,Cream Biscuits 300g,2,40,28.48,5.0,Wallet
+SE-0438,2025-05-21,C132,Bhagalpur,Personal Care,Toothpaste 200g,2,110,79.85,5.0,Cash
+SE-0439,2025-05-21,C152,Gaya,Snacks,Namkeen Mix 400g,4,110,80.23,10.0,UPI
+SE-0440,2025-05-21,C003,Bhagalpur,Personal Care,Shampoo 340ml,2,285,189.98,0.0,Cash
+SE-0441,2025-05-22,C186,Gaya,Snacks,Potato Chips 150g,3,50,35.32,0.0,UPI
+SE-0442,2025-05-22,C247,Gaya,Personal Care,Toothpaste 200g,2,110,80.49,10.0,Card
+SE-0443,2025-05-22,C204,Patna,Personal Care,Toothpaste 200g,1,110,80.37,5.0,UPI
+SE-0444,2025-05-22,C171,Muzaffarpur,Personal Care,Toothpaste 200g,3,110,79.94,5.0,UPI
+SE-0445,2025-05-23,C185,Patna ,Grocery,Wheat Atta 5kg,1,245,202.88,0.0,UPI
+SE-0446,2025-05-23,C047,Patna,Personal Care,Toothpaste 200g,1,110,79.2,10.0,UPI
+SE-0446,2025-05-23,C047,Patna,Personal Care,Toothpaste 200g,1,110,79.2,10.0,UPI
+SE-0447,2025-05-23,C163,Gaya,Snacks,Potato Chips 150g,3,50,35.55,0.0,UPI
+SE-0448,2025-05-24,C037,Darbhanga ,Snacks,Potato Chips 150g,2,50,35.33,10.0,UPI
+SE-0449,2025-05-24,C120,Patna,Grocery,Basmati Rice 5kg,2,620,505.33,5.0,UPI
+SE-0450,2025-05-24,C157,Patna,Grocery,Arhar Dal 1kg,2,160,127.45,0.0,Cash
+SE-0451,2025-05-24,C244,Darbhanga,Personal Care,Toothpaste 200g,2,110,78.77,10.0,UPI
+SE-0452,2025-05-24,C084,Patna,Personal Care,Toothpaste 200g,2,110,80.38,0.0,UPI
+SE-0453,2025-05-24,C257,Patna,Snacks,Namkeen Mix 400g,3,110,80.7,10.0,Card
+SE-0454,2025-05-25,C002,Patna,Personal Care,Toothpaste 200g,2,110,78.33,5.0,UPI
+SE-0455,2025-05-25,C036,Patna,Grocery,Arhar Dal 1kg,3,160,128.21,0.0,Cash
+SE-0456,2025-05-25,C283,Muzaffarpur,Grocery,Mustard Oil 1L,4,190,163.81,0.0,UPI
+SE-0457,2025-05-25,C102,Muzaffarpur,Electronics Accessories,Fast Charger 20W,1,899,641.65,30.0,Cash
+SE-0458,2025-05-25,C094,Darbhanga,Grocery,Wheat Atta 5kg,4,245,199.81,0.0,Card
+SE-0459,2025-05-26,C143,Patna,Snacks,Cream Biscuits 300g,1,40,28.64,0.0,UPI
+SE-0460,2025-05-26,C127,Patna,Personal Care,Toothpaste 200g,2,110,79.36,5.0,UPI
+SE-0461,2025-05-26,C034,Patna ,Grocery,Wheat Atta 5kg,1,245,197.3,5.0,UPI
+SE-0462,2025-05-26,C092,Patna,Home Care,Detergent Powder 3kg,5,380,295.65,5.0,UPI
+SE-0463,2025-05-27,C160,Bhagalpur,Home Care,Detergent Powder 3kg,2,380,300.23,5.0,Card
+SE-0464,2025-05-27,C143,Muzaffarpur,Personal Care,Shampoo 340ml,4,285,192.12,5.0,Cash
+SE-0465,2025-05-27,C077,Patna,Snacks,Cream Biscuits 300g,1,40,28.76,10.0,Card
+SE-0466,2025-05-27,C098,Patna,Snacks,Namkeen Mix 400g,3,110,78.55,10.0,UPI
+SE-0467,2025-05-27,C110,Patna,Personal Care,Shampoo 340ml,4,285,191.14,0.0,Cash
+SE-0468,2025-05-28,C179,Darbhanga,Grocery,Wheat Atta 5kg,1,245,197.08,0.0,UPI
+SE-0469,2025-05-28,C142,Gaya,Grocery,Wheat Atta 5kg,2,245,204.8,5.0,Cash
+SE-0470,2025-05-29,C165,Muzaffarpur,Home Care,Detergent Powder 3kg,1,380,291.67,,Cash
+SE-0471,2025-05-29,C261,Muzaffarpur,Snacks,Potato Chips 150g,1,50,34.58,0.0,UPI
+SE-0472,2025-05-29,C277,Darbhanga,Home Care,Detergent Powder 3kg,3,380,298.87,5.0,Card
+SE-0473,2025-05-29,C117,Bhagalpur ,Personal Care,Bathing Soap 4-pack,2,150,105.01,5.0,Card
+SE-0474,2025-05-29,C066,Bhagalpur,Snacks,Cold Drink 2L,4,95,69.43,0.0,Card
+SE-0475,2025-05-30,C144,Patna,Grocery,Wheat Atta 5kg,2,245,196.96,5.0,Card
+SE-0476,2025-05-30,C271,Darbhanga,Grocery,Mustard Oil 1L,5,190,167.69,10.0,upi
+SE-0477,2025-05-30,C031,Bhagalpur ,Grocery,Mustard Oil 1L,1,190,167.33,5.0,UPI
+SE-0478,2025-05-31,C060,Patna,Grocery,Basmati Rice 5kg,1,620,501.8,5.0,UPI
+SE-0479,2025-05-31,C242,Patna,Electronics Accessories,Power Bank 10000mAh,1,1299,922.9,35.0,upi
+SE-0480,2025-05-31,C092,Patna,Grocery,Arhar Dal 1kg,3,160,129.21,5.0,Cash
+SE-0481,2025-05-31,C133,Patna,Personal Care,Toothpaste 200g,4,110,79.01,10.0,Cash
+SE-0482,2025-05-31,C053,Patna,Personal Care,Shampoo 340ml,3,285,196.33,0.0,Card
+SE-0483,2025-06-01,C225,Darbhanga,Snacks,Cream Biscuits 300g,1,40,29.2,0.0,Card
+SE-0484,2025-06-01,C161,Gaya,Grocery,Arhar Dal 1kg,2,160,128.37,5.0,UPI
+SE-0485,2025-06-01,C069,Patna,Grocery,Mustard Oil 1L,3,190,164.17,10.0,upi
+SE-0486,2025-06-01,C033,Bhagalpur,Grocery,Wheat Atta 5kg,1,245,201.18,10.0,Cash
+SE-0487,2025-06-02,C107,Darbhanga,Personal Care,Toothpaste 200g,1,110,78.37,5.0,Cash
+SE-0488,2025-06-03,C138,Gaya,Electronics Accessories,USB-C Cable 1m,1,399,278.02,30.0,Card
+SE-0489,2025-06-03,C279,Muzaffarpur,Personal Care,Toothpaste 200g,3,110,79.51,0.0,Cash
+SE-0490,2025-06-03,C005,Muzaffarpur,Grocery,Mustard Oil 1L,2,190,168.49,5.0,Card
+SE-0491,2025-06-04,C296,Muzaffarpur,Snacks,Cold Drink 2L,2,95,70.29,5.0,Card
+SE-0492,2025-06-04,C141,Darbhanga,Personal Care,Shampoo 340ml,3,285,192.26,5.0,UPI
+SE-0493,2025-06-04,C136,Patna,Grocery,Arhar Dal 1kg,2,160,127.46,5.0,UPI
+SE-0494,2025-06-05,C274,Patna,Home Care,Floor Cleaner 1L,3,190,142.64,0.0,UPI
+SE-0495,2025-06-05,C025,Muzaffarpur,Electronics Accessories,USB-C Cable 1m,2,399,277.08,30.0,Card
+SE-0496,2025-06-05,C158,Patna,Grocery,Mustard Oil 1L,3,190,165.97,5.0,UPI
+SE-0497,2025-06-05,C277,Patna,Personal Care,Toothpaste 200g,1,110,80.55,5.0,Card
+SE-0498,2025-06-06,C080,Darbhanga,Personal Care,Bathing Soap 4-pack,4,150,103.0,10.0,Cash
+SE-0499,2025-06-06,C146,Patna,Electronics Accessories,USB-C Cable 1m,1,399,281.89,35.0,UPI
+SE-0500,2025-06-06,C074,Patna,Home Care,Detergent Powder 3kg,2,380,300.84,0.0,cash
+SE-0501,2025-06-06,C096,Gaya,Snacks,Namkeen Mix 400g,1,110,79.99,5.0,UPI
+SE-0502,2025-06-07,C050,Bhagalpur,Personal Care,Shampoo 340ml,1,285,192.89,0.0,UPI
+SE-0503,2025-06-07,C067,Darbhanga,Snacks,Potato Chips 150g,2,50,34.62,5.0,Card
+SE-0504,2025-06-07,C269,Patna,Electronics Accessories,Power Bank 10000mAh,1,1299,911.05,30.0,Cash
+SE-0505,2025-06-07,C044,Patna ,Grocery,Arhar Dal 1kg,4,160,127.5,10.0,UPI
+SE-0506,2025-06-07,C149,Darbhanga ,Grocery,Basmati Rice 5kg,2,620,502.64,0.0,UPI
+SE-0507,2025-06-07,C038,Patna,Snacks,Namkeen Mix 400g,2,110,80.52,5.0,UPI
+SE-0508,2025-06-08,C093,Patna,Grocery,Arhar Dal 1kg,2,160,128.22,5.0,UPI
+SE-0509,2025-06-09,C224,Patna,Personal Care,Bathing Soap 4-pack,2,150,103.28,5.0,UPI
+SE-0510,2025-06-09,C185,Darbhanga,Personal Care,Toothpaste 200g,1,110,77.79,5.0,UPI
+SE-0511,2025-06-10,C213,Patna,Snacks,Cream Biscuits 300g,5,40,29.34,0.0,UPI
+SE-0512,2025-06-10,C163,Patna,Electronics Accessories,Bluetooth Earphones,1,1499,1037.39,35.0,UPI
+SE-0513,2025-06-10,C212,Bhagalpur,Personal Care,Shampoo 340ml,1,285,191.6,0.0,Cash
+SE-0514,2025-06-11,C071,Patna,Snacks,Cream Biscuits 300g,2,40,28.51,5.0,upi
+SE-0515,2025-06-11,C213,Gaya,Grocery,Basmati Rice 5kg,1,620,491.51,5.0,Cash
+SE-0516,2025-06-11,C284,Patna,Grocery,Mustard Oil 1L,1,190,168.28,5.0,UPI
+SE-0517,2025-06-12,C157,Patna,Snacks,Cream Biscuits 300g,1,40,28.8,0.0,Cash
+SE-0518,2025-06-12,C125,Bhagalpur,Electronics Accessories,Bluetooth Earphones,1,1499,1048.27,35.0,Card
+SE-0519,2025-06-12,C074,Patna,Snacks,Namkeen Mix 400g,3,110,80.57,0.0,Card
+SE-0520,2025-06-13,C245,Darbhanga,Grocery,Wheat Atta 5kg,3,245,204.33,5.0,UPI
+SE-0521,2025-06-13,C243,Patna,Snacks,Potato Chips 150g,2,50,34.79,5.0,UPI
+SE-0522,2025-06-13,C300,Muzaffarpur,Grocery,Mustard Oil 1L,3,190,165.15,0.0,Cash
+SE-0523,2025-06-14,C033,Patna,Grocery,Basmati Rice 5kg,3,620,501.17,0.0,Wallet
+SE-0524,2025-06-14,C186,Bhagalpur,Personal Care,Toothpaste 200g,2,110,80.26,5.0,UPI
+SE-0525,2025-06-14,C273,Muzaffarpur ,Home Care,Detergent Powder 3kg,1,380,292.46,0.0,Card
+SE-0526,2025-06-15,C139,Gaya,Personal Care,Toothpaste 200g,3,110,79.56,0.0,Card
+SE-0527,2025-06-15,C106,Darbhanga ,Snacks,Cream Biscuits 300g,1,40,28.59,0.0,Cash
+SE-0528,2025-06-16,C265,Darbhanga,Personal Care,Bathing Soap 4-pack,1,150,104.99,5.0,cash
+SE-0529,2025-06-17,C054,Patna,Home Care,Detergent Powder 3kg,1,380,302.02,10.0,UPI
+SE-0530,2025-06-17,C123,Bhagalpur ,Personal Care,Bathing Soap 4-pack,1,150,106.42,5.0,Card
+SE-0531,2025-06-17,C179,Patna,Grocery,Arhar Dal 1kg,3,160,127.16,5.0,UPI
+SE-0532,2025-06-18,C238,Muzaffarpur,Personal Care,Toothpaste 200g,3,110,79.81,10.0,Cash
+SE-0533,2025-06-18,C063,Gaya,Electronics Accessories,Bluetooth Earphones,1,1499,1052.49,40.0,Cash
+SE-0534,2025-06-18,C299,Gaya,Grocery,Wheat Atta 5kg,1,245,203.02,10.0,Cash
+SE-0535,2025-06-19,C281,Muzaffarpur,Electronics Accessories,Bluetooth Earphones,2,1499,1048.55,40.0,UPI
+SE-0536,2025-06-19,C118,Patna,Snacks,Namkeen Mix 400g,1,110,79.76,5.0,Cash
+SE-0537,2025-06-19,C287,Patna,Grocery,Mustard Oil 1L,3,190,163.56,5.0,UPI
+SE-0538,2025-06-20,C113,Muzaffarpur,Grocery,Basmati Rice 5kg,2,620,497.58,5.0,UPI
+SE-0539,2025-06-21,C278,Darbhanga,Grocery,Wheat Atta 5kg,1,245,198.42,0.0,UPI
+SE-0540,2025-06-21,C021,Muzaffarpur,Snacks,Cream Biscuits 300g,2,40,28.53,0.0,Wallet
+SE-0541,2025-06-21,C021,Patna,Home Care,Detergent Powder 3kg,3,380,298.87,10.0,Card
+SE-0542,2025-06-21,C003,Patna,Grocery,Wheat Atta 5kg,2,245,201.0,0.0,UPI
+SE-0543,2025-06-21,C113,Patna,Snacks,Potato Chips 150g,2,50,34.61,0.0,UPI
+SE-0544,2025-06-21,C259,Muzaffarpur,Electronics Accessories,USB-C Cable 1m,1,399,275.85,40.0,Cash
+SE-0545,2025-06-21,C284,Muzaffarpur,Home Care,Detergent Powder 3kg,3,380,293.67,5.0,upi
+SE-0546,2025-06-22,C116,Patna,Snacks,Cream Biscuits 300g,2,40,29.11,10.0,Card
+SE-0547,2025-06-22,C117,Patna,Personal Care,Shampoo 340ml,2,285,193.68,10.0,Cash
+SE-0548,2025-06-22,C253,Bhagalpur,Grocery,Arhar Dal 1kg,1,160,128.52,0.0,Cash
+SE-0549,2025-06-22,C138,Patna,Grocery,Wheat Atta 5kg,1,245,199.54,0.0,UPI
+SE-0550,2025-06-23,C139,Darbhanga ,Snacks,Cold Drink 2L,1,95,70.29,10.0,UPI
+SE-0551,2025-06-23,C283,Darbhanga,Grocery,Mustard Oil 1L,2,190,162.84,5.0,Card
+SE-0552,2025-06-24,C280,Patna,Snacks,Cream Biscuits 300g,4,40,28.71,5.0,Cash
+SE-0553,2025-06-24,C024,Bhagalpur,Snacks,Cold Drink 2L,2,95,70.91,5.0,UPI
+SE-0554,2025-06-24,C007,Bhagalpur,Home Care,Detergent Powder 3kg,4,380,298.77,10.0,UPI
+SE-0555,2025-06-25,C057,Gaya,Grocery,Mustard Oil 1L,2,190,166.76,10.0,UPI
+SE-0556,2025-06-26,C165,Muzaffarpur,Home Care,Detergent Powder 3kg,3,380,298.25,5.0,UPI
+SE-0557,2025-06-26,C168,Patna,Electronics Accessories,Power Bank 10000mAh,1,1299,916.61,25.0,Cash
+SE-0558,2025-06-26,C169,Patna,Snacks,Cream Biscuits 300g,2,40,29.04,5.0,UPI
+SE-0559,2025-06-26,C029,Darbhanga,Home Care,Floor Cleaner 1L,1,190,140.96,5.0,Cash
+SE-0560,2025-06-26,C246,Bhagalpur,Personal Care,Shampoo 340ml,1,285,191.65,5.0,Card
+SE-0561,2025-06-27,C167,Gaya,Home Care,Detergent Powder 3kg,2,380,299.05,0.0,Card
+SE-0562,2025-06-27,C056,Patna,Grocery,Basmati Rice 5kg,2,620,496.28,5.0,Cash
+SE-0563,2025-06-27,C209,Muzaffarpur,Electronics Accessories,USB-C Cable 1m,1,399,284.76,25.0,UPI
+SE-0564,2025-06-27,C220,Gaya,Snacks,Namkeen Mix 400g,2,110,78.13,0.0,UPI
+SE-0565,2025-06-28,C081,Patna,Snacks,Namkeen Mix 400g,1,110,78.61,0.0,Cash
+SE-0566,2025-06-28,C285,Gaya,Snacks,Cream Biscuits 300g,1,40,28.54,10.0,Cash
+SE-0567,2025-06-28,C187,Gaya,Grocery,Mustard Oil 1L,2,190,165.08,5.0,UPI
+SE-0568,2025-06-28,C228,Muzaffarpur,Snacks,Cream Biscuits 300g,5,40,28.97,0.0,UPI
+SE-0569,2025-06-29,C162,Patna,Snacks,Potato Chips 150g,2,50,34.59,0.0,UPI
+SE-0570,2025-06-30,C187,Patna,Snacks,Potato Chips 150g,2,50,34.43,0.0,UPI
+SE-0571,2025-06-30,C180,Muzaffarpur,Home Care,Detergent Powder 3kg,1,380,291.99,10.0,UPI
+SE-0572,2025-07-01,C271,Muzaffarpur,Snacks,Cream Biscuits 300g,1,40,28.77,0.0,UPI
+SE-0573,2025-07-01,C032,Patna,Personal Care,Shampoo 340ml,2,285,196.53,0.0,UPI
+SE-0574,2025-07-01,C291,Muzaffarpur,Grocery,Mustard Oil 1L,2,190,162.79,,Wallet
+SE-0575,2025-07-02,C103,Patna,Grocery,Mustard Oil 1L,2,190,162.54,0.0,Wallet
+SE-0576,2025-07-02,C231,Muzaffarpur,Personal Care,Bathing Soap 4-pack,4,150,106.84,10.0,UPI
+SE-0577,2025-07-02,C023,Bhagalpur,Personal Care,Shampoo 340ml,2,285,193.15,10.0,Cash
+SE-0578,2025-07-03,C128,Gaya,Grocery,Mustard Oil 1L,3,190,166.2,5.0,Cash
+SE-0579,2025-07-03,C183,Patna,Home Care,Detergent Powder 3kg,1,380,301.77,0.0,UPI
+SE-0580,2025-07-05,C256,Muzaffarpur,Snacks,Cream Biscuits 300g,3,40,28.37,5.0,Cash
+SE-0581,2025-07-05,C037,Patna,Grocery,Arhar Dal 1kg,4,160,126.97,10.0,UPI
+SE-0582,2025-07-05,C296,Muzaffarpur,Personal Care,Toothpaste 200g,2,110,80.16,0.0,Cash
+SE-0583,2025-07-05,C250,Muzaffarpur,Grocery,Basmati Rice 5kg,2,620,487.09,10.0,card
+SE-0584,2025-07-05,C274,Gaya,Grocery,Basmati Rice 5kg,4,620,504.78,10.0,UPI
+SE-0585,2025-07-06,C142,Patna,Home Care,Detergent Powder 3kg,4,380,297.35,10.0,UPI
+SE-0586,2025-07-06,C221,Patna,Snacks,Potato Chips 150g,5,50,34.83,10.0,UPI
+SE-0587,2025-07-06,C287,Patna,Electronics Accessories,Power Bank 10000mAh,1,1299,891.84,25.0,UPI
+SE-0588,2025-07-06,C076,Gaya,Personal Care,Toothpaste 200g,2,110,80.39,5.0,Card
+SE-0589,2025-07-06,C050,Darbhanga,Snacks,Cream Biscuits 300g,3,40,28.37,0.0,UPI
+SE-0590,2025-07-06,C295,Patna,Grocery,Wheat Atta 5kg,1,245,199.62,0.0,Cash
+SE-0591,2025-07-07,C299,Muzaffarpur,Snacks,Potato Chips 150g,1,50,34.88,10.0,UPI
+SE-0592,2025-07-07,C081,Patna,Personal Care,Bathing Soap 4-pack,3,150,106.6,5.0,Cash
+SE-0593,2025-07-07,C098,Patna,Electronics Accessories,Fast Charger 20W,1,899,641.61,35.0,UPI
+SE-0594,2025-07-07,C055,Muzaffarpur,Grocery,Basmati Rice 5kg,1,620,498.79,5.0,upi
+SE-0595,2025-07-08,C060,Patna,Grocery,Arhar Dal 1kg,3,160,129.95,5.0,Cash
+SE-0596,2025-07-08,C023,Patna,Grocery,Wheat Atta 5kg,2,245,204.63,0.0,Cash
+SE-0597,2025-07-08,C055,Muzaffarpur,Snacks,Cold Drink 2L,1,95,71.38,5.0,Card
+SE-0598,2025-07-09,C155,Bhagalpur,Snacks,Namkeen Mix 400g,3,110,78.89,0.0,UPI
+SE-0599,2025-07-09,C071,Muzaffarpur,Snacks,Potato Chips 150g,1,50,35.64,10.0,Cash
+SE-0600,2025-07-09,C137,Gaya,Electronics Accessories,USB-C Cable 1m,1,399,283.96,35.0,Cash
+SE-0601,2025-07-09,C022,Bhagalpur,Personal Care,Bathing Soap 4-pack,1,150,105.55,10.0,Card
+SE-0602,2025-07-09,C148,Patna,Personal Care,Shampoo 340ml,1,285,194.24,5.0,Card
+SE-0603,2025-07-09,C251,Patna,Grocery,Basmati Rice 5kg,1,620,503.43,5.0,Card
+SE-0604,2025-07-09,C183,Muzaffarpur,Grocery,Mustard Oil 1L,1,190,162.57,5.0,UPI
+SE-0605,2025-07-10,C073,Gaya,Snacks,Namkeen Mix 400g,3,110,78.8,,UPI
+SE-0606,2025-07-10,C098,Bhagalpur,Snacks,Potato Chips 150g,3,50,35.1,0.0,UPI
+SE-0607,2025-07-10,C251,Gaya,Snacks,Cold Drink 2L,1,95,69.24,5.0,Cash
+SE-0608,2025-07-10,C177,Patna,Personal Care,Bathing Soap 4-pack,4,150,106.19,5.0,Card
+SE-0609,2025-07-10,C125,Gaya,Grocery,Arhar Dal 1kg,1,160,125.97,10.0,UPI
+SE-0610,2025-07-10,C244,Patna ,Grocery,Wheat Atta 5kg,4,245,203.76,5.0,UPI
+SE-0611,2025-07-11,C224,Patna,Grocery,Arhar Dal 1kg,1,160,127.31,0.0,UPI
+SE-0612,2025-07-12,C215,Darbhanga,Electronics Accessories,USB-C Cable 1m,1,399,284.06,25.0,Card
+SE-0613,2025-07-12,C185,Gaya,Snacks,Cold Drink 2L,1,95,70.63,10.0,UPI
+SE-0614,2025-07-13,C188,Gaya,Personal Care,Toothpaste 200g,2,110,80.44,5.0,Cash
+SE-0615,2025-07-14,C081,Patna,Home Care,Floor Cleaner 1L,2,190,141.72,5.0,Wallet
+SE-0616,2025-07-14,C286,Darbhanga,Personal Care,Shampoo 340ml,5,285,192.75,5.0,Cash
+SE-0617,2025-07-14,C031,Patna,Home Care,Detergent Powder 3kg,2,380,299.15,5.0,UPI
+SE-0618,2025-07-15,C170,Gaya,Personal Care,Bathing Soap 4-pack,1,150,106.65,5.0,UPI
+SE-0619,2025-07-16,C143,Darbhanga,Personal Care,Toothpaste 200g,3,110,77.77,0.0,UPI
+SE-0620,2025-07-16,C011,Patna,Snacks,Namkeen Mix 400g,1,110,78.46,5.0,UPI
+SE-0621,2025-07-16,C255,Patna,Personal Care,Toothpaste 200g,1,110,78.68,0.0,Wallet
+SE-0622,2025-07-16,C262,Patna,Grocery,Basmati Rice 5kg,4,620,497.86,0.0,UPI
+SE-0623,2025-07-17,C081,Muzaffarpur,Personal Care,Bathing Soap 4-pack,4,150,106.68,0.0,Wallet
+SE-0624,2025-07-17,C109,Darbhanga,Grocery,Basmati Rice 5kg,4,620,489.78,5.0,UPI
+SE-0625,2025-07-18,C181,Patna,Personal Care,Shampoo 340ml,3,285,195.55,5.0,UPI
+SE-0626,2025-07-18,C118,Gaya,Personal Care,Toothpaste 200g,1,110,78.85,0.0,UPI
+SE-0627,2025-07-19,C238,Muzaffarpur,Electronics Accessories,Fast Charger 20W,1,899,631.96,25.0,UPI
+SE-0628,2025-07-19,C061,Bhagalpur,Snacks,Namkeen Mix 400g,2,110,77.9,0.0,UPI
+SE-0629,2025-07-19,C174,Gaya,Home Care,Floor Cleaner 1L,3,190,137.93,5.0,UPI
+SE-0630,2025-07-19,C203,Bhagalpur,Snacks,Potato Chips 150g,5,50,35.69,5.0,Cash
+SE-0631,2025-07-20,C297,Patna,Snacks,Namkeen Mix 400g,2,110,78.35,0.0,upi
+SE-0632,2025-07-20,C089,Bhagalpur,Grocery,Arhar Dal 1kg,4,160,126.42,5.0,Card
+SE-0633,2025-07-21,C131,Patna,Snacks,Cream Biscuits 300g,1,40,28.97,5.0,UPI
+SE-0634,2025-07-21,C254,Muzaffarpur,Personal Care,Bathing Soap 4-pack,1,150,106.03,5.0,Wallet
+SE-0635,2025-07-23,C120,Gaya,Home Care,Detergent Powder 3kg,2,380,292.65,5.0,Card
+SE-0636,2025-07-23,C268,Darbhanga,Snacks,Cream Biscuits 300g,3,40,28.65,0.0,Card
+SE-0637,2025-07-23,C034,Muzaffarpur,Personal Care,Toothpaste 200g,2,110,78.83,5.0,UPI
+SE-0638,2025-07-23,C244,Patna,Grocery,Wheat Atta 5kg,3,245,199.9,0.0,Cash
+SE-0639,2025-07-23,C118,Darbhanga,Snacks,Cream Biscuits 300g,1,40,28.8,5.0,Card
+SE-0640,2025-07-24,C267,Gaya,Electronics Accessories,Bluetooth Earphones,2,1499,1063.36,35.0,Card
+SE-0641,2025-07-24,C249,Gaya,Personal Care,Shampoo 340ml,2,285,196.13,5.0,Card
+SE-0642,2025-07-25,C168,Gaya,Grocery,Wheat Atta 5kg,3,245,198.23,0.0,UPI
+SE-0643,2025-07-25,C081,Bhagalpur,Home Care,Detergent Powder 3kg,2,380,301.57,0.0,Card
+SE-0644,2025-07-25,C164,Gaya,Personal Care,Toothpaste 200g,3,110,80.33,10.0,Card
+SE-0645,2025-07-25,C211,Patna,Grocery,Basmati Rice 5kg,1,620,493.25,5.0,UPI
+SE-0646,2025-07-25,C104,Bhagalpur,Home Care,Floor Cleaner 1L,1,190,141.47,10.0,Cash
+SE-0647,2025-07-25,C015,Bhagalpur,Snacks,Cream Biscuits 300g,2,40,28.55,5.0,Wallet
+SE-0648,2025-07-26,C161,Gaya ,Electronics Accessories,Fast Charger 20W,1,899,621.58,40.0,Card
+SE-0649,2025-07-26,C249,Patna,Personal Care,Shampoo 340ml,5,285,195.39,0.0,Card
+SE-0650,2025-07-26,C070,Muzaffarpur,Grocery,Mustard Oil 1L,4,190,168.55,5.0,UPI
+SE-0651,2025-07-26,C154,Muzaffarpur,Snacks,Namkeen Mix 400g,3,110,80.52,0.0,Cash
+SE-0652,2025-07-26,C290,Bhagalpur,Grocery,Arhar Dal 1kg,1,160,129.68,0.0,UPI
+SE-0653,2025-07-27,C171,Patna,Grocery,Arhar Dal 1kg,2,160,129.85,0.0,Card
+SE-0654,2025-07-27,C131,Patna,Snacks,Namkeen Mix 400g,1,110,78.85,0.0,Cash
+SE-0655,2025-07-27,C187,Muzaffarpur,Snacks,Potato Chips 150g,3,50,34.69,10.0,Cash
+SE-0656,2025-07-27,C236,Bhagalpur,Snacks,Namkeen Mix 400g,1,110,78.45,0.0,cash
+SE-0657,2025-07-28,C258,Patna,Home Care,Detergent Powder 3kg,4,380,296.58,0.0,UPI
+SE-0658,2025-07-28,C264,Muzaffarpur,Grocery,Basmati Rice 5kg,1,620,486.57,0.0,Cash
+SE-0659,2025-07-28,C083,Bhagalpur,Home Care,Detergent Powder 3kg,1,380,300.36,0.0,UPI
+SE-0660,2025-07-29,C082,Muzaffarpur,Snacks,Cold Drink 2L,1,95,71.21,5.0,Cash
+SE-0661,2025-07-29,C259,Bhagalpur,Personal Care,Toothpaste 200g,4,110,79.81,5.0,cash
+SE-0662,2025-07-29,C124,Muzaffarpur,Electronics Accessories,USB-C Cable 1m,1,399,276.16,30.0,UPI
+SE-0663,2025-07-29,C147,Patna,Personal Care,Shampoo 340ml,5,285,191.69,0.0,UPI
+SE-0664,2025-07-30,C185,Bhagalpur,Home Care,Detergent Powder 3kg,1,380,294.37,0.0,UPI
+SE-0665,2025-07-30,C033,Patna,Grocery,Mustard Oil 1L,1,190,167.93,0.0,UPI
+SE-0666,2025-07-30,C276,Gaya,Snacks,Namkeen Mix 400g,3,110,79.17,5.0,UPI
+SE-0667,2025-08-01,C081,Muzaffarpur,Snacks,Cold Drink 2L,2,95,71.28,10.0,UPI
+SE-0668,2025-08-02,C039,Darbhanga,Grocery,Arhar Dal 1kg,1,160,129.81,10.0,UPI
+SE-0669,2025-08-03,C238,Patna,Personal Care,Toothpaste 200g,1,110,79.7,0.0,Cash
+SE-0670,2025-08-03,C026,Gaya,Grocery,Basmati Rice 5kg,3,620,502.87,5.0,Card
+SE-0671,2025-08-03,C277,Gaya,Electronics Accessories,Bluetooth Earphones,1,1499,1045.24,25.0,Cash
+SE-0672,2025-08-03,C085,Bhagalpur,Electronics Accessories,Power Bank 10000mAh,1,1299,904.03,30.0,Cash
+SE-0673,2025-08-03,C069,Patna,Snacks,Cream Biscuits 300g,1,40,28.85,5.0,UPI
+SE-0674,2025-08-03,C224,Patna,Snacks,Potato Chips 150g,5,50,34.83,,Card
+SE-0675,2025-08-05,C290,Darbhanga,Grocery,Basmati Rice 5kg,2,620,491.17,5.0,Cash
+SE-0676,2025-08-06,C102,Bhagalpur,Personal Care,Toothpaste 200g,2,110,78.74,0.0,UPI
+SE-0677,2025-08-06,C106,Gaya,Grocery,Wheat Atta 5kg,1,245,204.85,0.0,card
+SE-0678,2025-08-06,C276,Patna,Grocery,Wheat Atta 5kg,1,245,202.49,0.0,upi
+SE-0679,2025-08-07,C222,Bhagalpur,Snacks,Potato Chips 150g,3,50,34.47,10.0,Card
+SE-0680,2025-08-07,C173,Patna,Electronics Accessories,Bluetooth Earphones,1,1499,1030.43,25.0,Cash
+SE-0681,2025-08-07,C158,Patna,Snacks,Potato Chips 150g,2,50,34.7,5.0,UPI
+SE-0682,2025-08-07,C040,Bhagalpur,Grocery,Wheat Atta 5kg,3,245,197.44,0.0,Card
+SE-0683,2025-08-08,C209,Patna,Personal Care,Bathing Soap 4-pack,3,150,105.95,5.0,UPI
+SE-0684,2025-08-08,C235,Bhagalpur,Snacks,Namkeen Mix 400g,3,110,78.9,0.0,Cash
+SE-0685,2025-08-08,C105,Gaya,Home Care,Detergent Powder 3kg,5,380,295.25,10.0,UPI
+SE-0686,2025-08-08,C183,Muzaffarpur,Grocery,Wheat Atta 5kg,2,245,198.06,0.0,Card
+SE-0687,2025-08-09,C214,Bhagalpur,Grocery,Wheat Atta 5kg,4,245,204.57,10.0,cash
+SE-0688,2025-08-09,C057,Bhagalpur,Personal Care,Bathing Soap 4-pack,1,150,103.76,5.0,Wallet
+SE-0689,2025-08-09,C192,Darbhanga,Personal Care,Toothpaste 200g,4,110,79.03,0.0,UPI
+SE-0690,2025-08-09,C064,Bhagalpur ,Grocery,Mustard Oil 1L,4,190,165.27,0.0,UPI
+SE-0691,2025-08-09,C012,Patna,Snacks,Cream Biscuits 300g,2,40,28.65,5.0,UPI
+SE-0692,2025-08-10,C125,Bhagalpur,Electronics Accessories,Fast Charger 20W,2,899,622.73,40.0,UPI
+SE-0693,2025-08-10,C165,Gaya,Personal Care,Toothpaste 200g,1,110,78.7,10.0,Card
+SE-0694,2025-08-10,C122,Patna,Personal Care,Bathing Soap 4-pack,3,150,106.42,10.0,UPI
+SE-0695,2025-08-11,C005,Darbhanga,Grocery,Arhar Dal 1kg,3,160,127.82,0.0,UPI
+SE-0696,2025-08-11,C179,Bhagalpur,Personal Care,Toothpaste 200g,3,110,79.07,10.0,card
+SE-0697,2025-08-11,C271,Muzaffarpur,Personal Care,Toothpaste 200g,1,110,78.6,10.0,Cash
+SE-0698,2025-08-11,C232,Patna,Snacks,Cream Biscuits 300g,1,40,28.38,5.0,UPI
+SE-0699,2025-08-11,C250,Patna,Personal Care,Bathing Soap 4-pack,2,150,105.86,0.0,Card
+SE-0700,2025-08-12,C162,Darbhanga ,Electronics Accessories,USB-C Cable 1m,1,399,279.88,25.0,Cash
+SE-0701,2025-08-12,C017,Muzaffarpur,Grocery,Arhar Dal 1kg,2,160,129.75,5.0,UPI
+SE-0702,2025-08-12,C034,Muzaffarpur,Snacks,Namkeen Mix 400g,3,110,80.74,5.0,Card
+SE-0703,2025-08-13,C266,Patna,Electronics Accessories,Fast Charger 20W,1,899,630.3,25.0,UPI
+SE-0704,2025-08-13,C297,Bhagalpur,Grocery,Basmati Rice 5kg,1,620,491.12,5.0,Cash
+SE-0705,2025-08-13,C293,Darbhanga,Snacks,Cold Drink 2L,1,95,70.17,0.0,UPI
+SE-0706,2025-08-13,C003,Gaya,Snacks,Namkeen Mix 400g,3,110,79.13,10.0,Card
+SE-0707,2025-08-13,C254,Darbhanga,Electronics Accessories,USB-C Cable 1m,1,399,280.43,25.0,UPI
+SE-0708,2025-08-14,C188,Gaya,Personal Care,Bathing Soap 4-pack,1,150,103.26,5.0,Card
+SE-0709,2025-08-14,C155,Patna,Snacks,Cream Biscuits 300g,3,40,28.27,5.0,Cash
+SE-0710,2025-08-15,C033,Bhagalpur,Grocery,Mustard Oil 1L,1,190,166.84,10.0,UPI
+SE-0711,2025-08-15,C170,Bhagalpur,Snacks,Namkeen Mix 400g,2,110,77.85,5.0,UPI
+SE-0712,2025-08-15,C003,Darbhanga,Electronics Accessories,Fast Charger 20W,1,899,620.72,40.0,Card
+SE-0713,2025-08-16,C260,Muzaffarpur,Grocery,Wheat Atta 5kg,3,245,204.09,5.0,Cash
+SE-0714,2025-08-16,C201,Patna,Personal Care,Toothpaste 200g,1,110,78.8,5.0,UPI
+SE-0715,2025-08-16,C092,Darbhanga,Home Care,Detergent Powder 3kg,1,380,299.27,0.0,Cash
+SE-0716,2025-08-16,C028,Patna,Electronics Accessories,USB-C Cable 1m,1,399,277.8,30.0,Card
+SE-0717,2025-08-16,C063,Gaya,Personal Care,Toothpaste 200g,2,110,78.89,5.0,UPI
+SE-0718,2025-08-17,C299,Gaya,Personal Care,Toothpaste 200g,1,110,79.79,5.0,Cash
+SE-0719,2025-08-17,C008,Patna,Snacks,Cream Biscuits 300g,3,40,28.53,0.0,UPI
+SE-0720,2025-08-17,C274,Muzaffarpur,Grocery,Mustard Oil 1L,2,190,162.04,10.0,upi
+SE-0721,2025-08-17,C175,Patna,Snacks,Cold Drink 2L,2,95,70.95,,Cash
+SE-0722,2025-08-17,C214,Muzaffarpur,Personal Care,Bathing Soap 4-pack,5,150,104.54,5.0,Cash
+SE-0723,2025-08-18,C150,Patna,Electronics Accessories,Bluetooth Earphones,2,1499,1045.12,25.0,UPI
+SE-0724,2025-08-18,C084,Muzaffarpur,Home Care,Detergent Powder 3kg,3,380,292.61,10.0,Card
+SE-0725,2025-08-18,C273,Muzaffarpur,Electronics Accessories,Fast Charger 20W,1,899,625.87,25.0,UPI
+SE-0726,2025-08-18,C105,Patna,Snacks,Cold Drink 2L,3,95,69.2,0.0,Card
+SE-0727,2025-08-19,C211,Patna,Home Care,Detergent Powder 3kg,5,380,295.22,0.0,UPI
+SE-0728,2025-08-19,C124,Patna,Snacks,Potato Chips 150g,4,50,34.62,5.0,UPI
+SE-0729,2025-08-19,C128,Patna,Electronics Accessories,USB-C Cable 1m,1,399,284.56,25.0,Card
+SE-0730,2025-08-19,C198,Gaya,Snacks,Cream Biscuits 300g,2,40,28.22,5.0,card
+SE-0731,2025-08-19,C240,Patna ,Snacks,Potato Chips 150g,2,50,34.98,10.0,Cash
+SE-0732,2025-08-19,C285,Darbhanga,Electronics Accessories,USB-C Cable 1m,2,399,280.89,25.0,Cash
+SE-0733,2025-08-20,C170,Patna,Electronics Accessories,USB-C Cable 1m,1,399,284.85,35.0,UPI
+SE-0734,2025-08-20,C176,Gaya,Home Care,Detergent Powder 3kg,2,380,294.47,5.0,UPI
+SE-0735,2025-08-20,C293,Darbhanga,Grocery,Wheat Atta 5kg,1,245,197.09,5.0,UPI
+SE-0736,2025-08-20,C255,Darbhanga,Personal Care,Toothpaste 200g,2,110,80.74,10.0,UPI
+SE-0737,2025-08-21,C059,Patna,Personal Care,Shampoo 340ml,1,285,192.54,0.0,wallet
+SE-0738,2025-08-21,C069,Muzaffarpur,Grocery,Wheat Atta 5kg,3,245,199.56,5.0,Cash
+SE-0739,2025-08-21,C272,Muzaffarpur ,Electronics Accessories,USB-C Cable 1m,1,399,281.81,40.0,Card
+SE-0740,2025-08-21,C167,Patna,Personal Care,Bathing Soap 4-pack,2,150,103.42,10.0,UPI
+SE-0741,2025-08-21,C101,Patna,Snacks,Namkeen Mix 400g,1,110,79.23,5.0,Cash
+SE-0742,2025-08-22,C045,Bhagalpur,Home Care,Detergent Powder 3kg,2,380,291.64,5.0,Cash
+SE-0743,2025-08-22,C200,Darbhanga,Snacks,Cream Biscuits 300g,1,40,28.38,5.0,UPI
+SE-0744,2025-08-22,C118,Darbhanga,Grocery,Wheat Atta 5kg,1,245,201.96,0.0,Card
+SE-0745,2025-08-22,C136,Bhagalpur,Electronics Accessories,USB-C Cable 1m,1,399,276.44,30.0,UPI
+SE-0746,2025-08-22,C156,Darbhanga,Electronics Accessories,USB-C Cable 1m,1,399,273.89,40.0,Cash
+SE-0747,2025-08-22,C200,Darbhanga,Snacks,Cold Drink 2L,1,95,69.82,,UPI
+SE-0748,2025-08-23,C048,Patna,Personal Care,Shampoo 340ml,1,285,190.36,10.0,Cash
+SE-0748,2025-08-23,C048,Patna,Personal Care,Shampoo 340ml,1,285,190.36,10.0,Cash
+SE-0749,2025-08-23,C115,Muzaffarpur,Personal Care,Bathing Soap 4-pack,1,150,104.47,0.0,UPI
+SE-0750,2025-08-24,C235,Muzaffarpur,Grocery,Arhar Dal 1kg,2,160,129.66,5.0,UPI
+SE-0751,2025-08-24,C274,Darbhanga,Grocery,Wheat Atta 5kg,3,245,202.17,0.0,UPI
+SE-0752,2025-08-24,C229,Patna,Electronics Accessories,Bluetooth Earphones,1,1499,1040.53,25.0,UPI
+SE-0753,2025-08-24,C068,Bhagalpur,Electronics Accessories,Power Bank 10000mAh,1,1299,916.53,25.0,Wallet
+SE-0754,2025-08-24,C104,Bhagalpur,Personal Care,Shampoo 340ml,2,285,191.34,0.0,cash
+SE-0755,2025-08-25,C110,Bhagalpur,Snacks,Potato Chips 150g,2,50,34.79,5.0,Card
+SE-0756,2025-08-25,C141,Darbhanga,Personal Care,Shampoo 340ml,1,285,191.44,0.0,Cash
+SE-0757,2025-08-26,C194,Muzaffarpur,Electronics Accessories,Power Bank 10000mAh,1,1299,914.0,35.0,Card
+SE-0758,2025-08-26,C131,Bhagalpur,Electronics Accessories,Fast Charger 20W,1,899,626.58,40.0,Card
+SE-0759,2025-08-27,C293,Patna,Personal Care,Shampoo 340ml,4,285,193.83,5.0,UPI
+SE-0760,2025-08-28,C145,Patna,Personal Care,Shampoo 340ml,3,285,196.37,0.0,Card
+SE-0761,2025-08-28,C023,Muzaffarpur,Personal Care,Toothpaste 200g,1,110,80.52,0.0,UPI
+SE-0762,2025-08-29,C005,Patna,Electronics Accessories,Fast Charger 20W,1,899,616.99,40.0,Cash
+SE-0763,2025-08-30,C065,Bhagalpur,Personal Care,Shampoo 340ml,3,285,191.68,0.0,Cash
+SE-0764,2025-08-30,C133,Muzaffarpur,Grocery,Arhar Dal 1kg,4,160,128.14,5.0,UPI
+SE-0765,2025-08-30,C078,Muzaffarpur,Grocery,Wheat Atta 5kg,4,245,198.83,5.0,Wallet
+SE-0766,2025-08-30,C112,Muzaffarpur,Electronics Accessories,Bluetooth Earphones,1,1499,1033.18,25.0,UPI
+SE-0767,2025-08-30,C030,Gaya,Snacks,Cold Drink 2L,1,95,71.06,10.0,card
+SE-0768,2025-08-31,C108,Bhagalpur,Home Care,Floor Cleaner 1L,3,190,141.62,0.0,UPI
+SE-0769,2025-08-31,C118,Patna,Personal Care,Toothpaste 200g,5,110,77.78,5.0,Card
+SE-0770,2025-09-01,C202,Patna,Grocery,Arhar Dal 1kg,3,160,129.7,,Wallet
+SE-0771,2025-09-02,C146,Darbhanga,Snacks,Potato Chips 150g,4,50,34.7,0.0,Cash
+SE-0772,2025-09-03,C195,Patna,Snacks,Potato Chips 150g,5,50,34.5,0.0,Cash
+SE-0773,2025-09-03,C256,Gaya,Personal Care,Bathing Soap 4-pack,2,150,103.43,10.0,Card
+SE-0774,2025-09-03,C144,Bhagalpur,Personal Care,Shampoo 340ml,1,285,193.13,0.0,Card
+SE-0774,2025-09-03,C144,Bhagalpur,Personal Care,Shampoo 340ml,1,285,193.13,0.0,Card
+SE-0775,2025-09-04,C200,Patna,Electronics Accessories,Bluetooth Earphones,1,1499,1058.11,35.0,UPI
+SE-0776,2025-09-05,C241,Darbhanga,Snacks,Namkeen Mix 400g,1,110,80.74,0.0,UPI
+SE-0777,2025-09-05,C298,Patna,Grocery,Mustard Oil 1L,2,190,163.5,10.0,card
+SE-0778,2025-09-05,C107,Patna,Snacks,Potato Chips 150g,2,50,35.63,5.0,UPI
+SE-0779,2025-09-05,C011,Muzaffarpur,Personal Care,Bathing Soap 4-pack,1,150,105.51,5.0,Cash
+SE-0780,2025-09-05,C243,Darbhanga,Home Care,Floor Cleaner 1L,4,190,141.96,5.0,Cash
+SE-0781,2025-09-05,C281,Patna,Electronics Accessories,USB-C Cable 1m,1,399,281.58,30.0,UPI
+SE-0782,2025-09-06,C102,Muzaffarpur,Electronics Accessories,Bluetooth Earphones,1,1499,1038.49,35.0,UPI
+SE-0783,2025-09-06,C121,Patna,Snacks,Potato Chips 150g,2,50,35.06,0.0,UPI
+SE-0784,2025-09-06,C168,Darbhanga,Personal Care,Toothpaste 200g,2,110,78.28,,Cash
+SE-0785,2025-09-06,C093,Muzaffarpur ,Home Care,Floor Cleaner 1L,3,190,138.12,5.0,Cash
+SE-0786,2025-09-07,C180,Patna,Snacks,Namkeen Mix 400g,4,110,78.57,0.0,Card
+SE-0787,2025-09-08,C033,Muzaffarpur,Snacks,Potato Chips 150g,2,50,35.49,5.0,Cash
+SE-0788,2025-09-08,C022,Patna,Snacks,Cold Drink 2L,2,95,70.05,0.0,UPI
+SE-0789,2025-09-08,C105,Darbhanga ,Electronics Accessories,Bluetooth Earphones,1,1499,1050.98,30.0,Card
+SE-0790,2025-09-09,C047,Darbhanga,Electronics Accessories,USB-C Cable 1m,1,399,282.68,35.0,UPI
+SE-0791,2025-09-09,C192,Patna,Personal Care,Shampoo 340ml,4,285,196.28,5.0,Card
+SE-0792,2025-09-11,C089,Gaya,Snacks,Namkeen Mix 400g,1,110,79.18,5.0,UPI
+SE-0793,2025-09-11,C067,Patna,Snacks,Namkeen Mix 400g,2,110,79.22,5.0,Card
+SE-0794,2025-09-11,C045,Bhagalpur,Grocery,Wheat Atta 5kg,3,245,204.72,0.0,Cash
+SE-0795,2025-09-11,C252,Gaya,Personal Care,Bathing Soap 4-pack,1,150,105.26,5.0,UPI
+SE-0796,2025-09-12,C256,Muzaffarpur,Snacks,Cream Biscuits 300g,1,40,28.42,0.0,Cash
+SE-0797,2025-09-12,C106,Bhagalpur,Electronics Accessories,Bluetooth Earphones,2,1499,1037.07,40.0,Card
+SE-0798,2025-09-12,C091,Patna,Grocery,Arhar Dal 1kg,4,160,127.21,10.0,UPI
+SE-0799,2025-09-12,C017,Gaya,Snacks,Potato Chips 150g,2,50,35.57,5.0,UPI
+SE-0800,2025-09-13,C209,Patna,Grocery,Mustard Oil 1L,3,190,165.62,0.0,UPI
+SE-0801,2025-09-13,C123,Bhagalpur,Electronics Accessories,USB-C Cable 1m,1,399,276.7,40.0,Wallet
+SE-0802,2025-09-13,C159,Patna,Electronics Accessories,Bluetooth Earphones,1,1499,1036.08,35.0,Cash
+SE-0803,2025-09-13,C076,Patna,Snacks,Namkeen Mix 400g,2,110,78.57,10.0,Cash
+SE-0804,2025-09-13,C154,Darbhanga,Snacks,Namkeen Mix 400g,4,110,78.18,10.0,Wallet
+SE-0805,2025-09-13,C148,Bhagalpur,Personal Care,Shampoo 340ml,2,285,192.19,0.0,UPI
+SE-0806,2025-09-14,C238,Bhagalpur,Grocery,Wheat Atta 5kg,2,245,203.11,5.0,Card
+SE-0807,2025-09-14,C092,Bhagalpur,Snacks,Potato Chips 150g,2,50,35.01,0.0,UPI
+SE-0808,2025-09-14,C035,Gaya,Grocery,Mustard Oil 1L,4,190,162.18,0.0,Card
+SE-0809,2025-09-15,C087,Gaya,Snacks,Potato Chips 150g,1,50,35.37,5.0,UPI
+SE-0810,2025-09-15,C263,Gaya,Snacks,Cream Biscuits 300g,3,40,28.46,10.0,Card
+SE-0811,2025-09-15,C252,Patna,Snacks,Potato Chips 150g,3,50,35.16,5.0,UPI
+SE-0812,2025-09-15,C293,Gaya,Electronics Accessories,Fast Charger 20W,1,899,641.55,30.0,UPI
+SE-0813,2025-09-15,C116,Patna,Grocery,Mustard Oil 1L,3,190,168.15,5.0,UPI
+SE-0814,2025-09-16,C173,Darbhanga,Electronics Accessories,Bluetooth Earphones,1,1499,1063.57,30.0,UPI
+SE-0815,2025-09-16,C161,Patna,Personal Care,Toothpaste 200g,5,110,78.75,0.0,Cash
+SE-0816,2025-09-16,C094,Patna,Home Care,Detergent Powder 3kg,5,380,293.42,0.0,Cash
+SE-0817,2025-09-16,C025,Patna,Snacks,Cream Biscuits 300g,2,40,28.92,5.0,Cash
+SE-0818,2025-09-16,C196,Gaya,Snacks,Cold Drink 2L,1,95,70.86,10.0,Card
+SE-0819,2025-09-17,C062,Muzaffarpur,Snacks,Namkeen Mix 400g,3,110,79.86,0.0,Cash
+SE-0820,2025-09-17,C245,Muzaffarpur,Personal Care,Shampoo 340ml,3,285,196.78,5.0,Card
+SE-0821,2025-09-17,C195,Patna,Personal Care,Bathing Soap 4-pack,2,150,104.2,5.0,UPI
+SE-0822,2025-09-18,C043,Patna,Snacks,Cold Drink 2L,1,95,70.78,5.0,Wallet
+SE-0823,2025-09-18,C256,Patna,Grocery,Mustard Oil 1L,3,190,166.06,0.0,Cash
+SE-0824,2025-09-18,C014,Gaya,Personal Care,Toothpaste 200g,3,110,80.03,0.0,UPI
+SE-0825,2025-09-18,C042,Patna,Electronics Accessories,Fast Charger 20W,1,899,636.62,30.0,Card
+SE-0826,2025-09-19,C078,Muzaffarpur,Snacks,Cold Drink 2L,1,95,70.93,0.0,Wallet
+SE-0827,2025-09-19,C185,Darbhanga,Snacks,Namkeen Mix 400g,2,110,79.15,5.0,Card
+SE-0828,2025-09-19,C234,Patna,Personal Care,Toothpaste 200g,2,110,79.02,5.0,UPI
+SE-0829,2025-09-19,C248,Patna,Electronics Accessories,Bluetooth Earphones,1,1499,1068.1,25.0,UPI
+SE-0830,2025-09-19,C069,Bhagalpur,Personal Care,Bathing Soap 4-pack,2,150,103.11,5.0,UPI
+SE-0831,2025-09-20,C138,Patna,Home Care,Detergent Powder 3kg,1,380,297.85,5.0,UPI
+SE-0832,2025-09-20,C123,Muzaffarpur,Personal Care,Shampoo 340ml,1,285,197.16,0.0,UPI
+SE-0833,2025-09-20,C077,Patna,Home Care,Floor Cleaner 1L,2,190,138.54,5.0,Card
+SE-0834,2025-09-20,C070,Patna,Home Care,Detergent Powder 3kg,5,380,293.18,0.0,Cash
+SE-0835,2025-09-21,C198,Patna,Electronics Accessories,Fast Charger 20W,1,899,620.28,40.0,Card
+SE-0836,2025-09-21,C018,Muzaffarpur,Snacks,Potato Chips 150g,1,50,35.28,10.0,UPI
+SE-0837,2025-09-21,C119,Muzaffarpur,Grocery,Mustard Oil 1L,2,190,163.15,5.0,Card
+SE-0838,2025-09-21,C072,Patna,Grocery,Arhar Dal 1kg,1,160,128.64,5.0,Card
+SE-0839,2025-09-21,C152,Darbhanga,Grocery,Mustard Oil 1L,3,190,162.67,10.0,card
+SE-0840,2025-09-21,C052,Patna,Home Care,Detergent Powder 3kg,1,380,292.11,0.0,UPI
+SE-0841,2025-09-21,C115,Patna,Snacks,Namkeen Mix 400g,2,110,78.99,10.0,Wallet
+SE-0842,2025-09-21,C269,Patna,Snacks,Namkeen Mix 400g,4,110,80.28,0.0,Card
+SE-0843,2025-09-21,C049,Muzaffarpur,Grocery,Mustard Oil 1L,1,190,167.5,10.0,Card
+SE-0844,2025-09-22,C137,Darbhanga,Snacks,Cream Biscuits 300g,3,40,29.18,5.0,UPI
+SE-0845,2025-09-23,C184,Muzaffarpur ,Grocery,Wheat Atta 5kg,2,245,200.14,0.0,card
+SE-0846,2025-09-23,C162,Gaya,Electronics Accessories,Power Bank 10000mAh,1,1299,897.18,25.0,UPI
+SE-0847,2025-09-23,C200,Patna,Snacks,Potato Chips 150g,1,50,34.68,0.0,UPI
+SE-0848,2025-09-24,C282,Darbhanga,Grocery,Mustard Oil 1L,3,190,162.59,0.0,Cash
+SE-0849,2025-09-25,C069,Patna,Grocery,Basmati Rice 5kg,3,620,504.64,10.0,Cash
+SE-0850,2025-09-25,C055,Patna,Snacks,Cold Drink 2L,3,95,70.95,0.0,Cash
+SE-0851,2025-09-25,C052,Muzaffarpur,Grocery,Wheat Atta 5kg,2,245,197.32,0.0,UPI
+SE-0852,2025-09-25,C252,Patna,Electronics Accessories,Bluetooth Earphones,2,1499,1064.09,25.0,UPI
+SE-0853,2025-09-25,C247,Muzaffarpur,Grocery,Wheat Atta 5kg,1,245,199.45,0.0,UPI
+SE-0854,2025-09-26,C231,Bhagalpur,Snacks,Cream Biscuits 300g,1,40,28.6,5.0,Card
+SE-0855,2025-09-26,C102,Bhagalpur,Snacks,Potato Chips 150g,4,50,35.28,5.0,UPI
+SE-0856,2025-09-27,C136,Patna,Snacks,Potato Chips 150g,1,50,35.15,10.0,UPI
+SE-0857,2025-09-27,C101,Patna,Personal Care,Toothpaste 200g,1,110,77.77,5.0,UPI
+SE-0858,2025-09-27,C041,Patna,Electronics Accessories,Fast Charger 20W,1,899,628.46,25.0,UPI
+SE-0859,2025-09-28,C180,Patna,Snacks,Cold Drink 2L,2,95,69.74,0.0,Cash
+SE-0860,2025-09-28,C216,Darbhanga,Personal Care,Bathing Soap 4-pack,1,150,104.12,5.0,Cash
+SE-0861,2025-09-28,C092,Darbhanga,Grocery,Basmati Rice 5kg,3,620,501.44,5.0,UPI
+SE-0862,2025-09-29,C078,Muzaffarpur,Home Care,Detergent Powder 3kg,1,380,295.7,10.0,Cash
+SE-0863,2025-09-29,C203,Patna,Snacks,Cold Drink 2L,2,95,70.39,10.0,UPI
+SE-0864,2025-09-29,C064,Muzaffarpur,Snacks,Potato Chips 150g,3,50,35.49,5.0,Card
+SE-0865,2025-09-29,C150,Muzaffarpur ,Snacks,Cold Drink 2L,1,95,69.9,0.0,Cash
+SE-0866,2025-09-30,C253,Patna,Snacks,Potato Chips 150g,1,50,35.63,5.0,UPI
+SE-0867,2025-09-30,C009,Gaya,Electronics Accessories,USB-C Cable 1m,1,399,274.04,25.0,Cash
+SE-0868,2025-09-30,C097,Bhagalpur,Grocery,Basmati Rice 5kg,1,620,497.57,5.0,cash
+SE-0869,2025-09-30,C225,Bhagalpur ,Snacks,Cream Biscuits 300g,2,40,28.26,10.0,Card
+SE-0870,2025-09-30,C284,Patna,Snacks,Cream Biscuits 300g,2,40,29.27,0.0,Cash
+SE-0871,2025-10-01,C119,Patna,Grocery,Wheat Atta 5kg,1,245,201.99,0.0,UPI
+SE-0872,2025-10-01,C009,Muzaffarpur,Electronics Accessories,Power Bank 10000mAh,1,1299,899.28,30.0,UPI
+SE-0873,2025-10-01,C071,Muzaffarpur,Personal Care,Bathing Soap 4-pack,3,150,104.93,0.0,card
+SE-0874,2025-10-01,C018,Patna,Grocery,Wheat Atta 5kg,1,245,197.12,5.0,Wallet
+SE-0875,2025-10-02,C046,Bhagalpur,Snacks,Cream Biscuits 300g,2,40,28.89,0.0,Card
+SE-0876,2025-10-02,C147,Gaya,Snacks,Cold Drink 2L,1,95,70.07,0.0,Card
+SE-0877,2025-10-02,C137,Patna,Grocery,Basmati Rice 5kg,2,620,495.94,0.0,Wallet
+SE-0878,2025-10-02,C162,Patna,Snacks,Namkeen Mix 400g,1,110,78.0,0.0,UPI
+SE-0879,2025-10-02,C296,Patna,Electronics Accessories,Bluetooth Earphones,1,1499,1048.93,30.0,UPI
+SE-0880,2025-10-02,C284,Patna,Personal Care,Shampoo 340ml,2,285,190.25,0.0,UPI
+SE-0881,2025-10-02,C244,Gaya,Personal Care,Toothpaste 200g,2,110,80.59,5.0,UPI
+SE-0882,2025-10-02,C299,Bhagalpur,Personal Care,Bathing Soap 4-pack,3,150,105.37,5.0,UPI
+SE-0883,2025-10-03,C250,Darbhanga,Grocery,Wheat Atta 5kg,3,245,197.0,0.0,UPI
+SE-0884,2025-10-03,C143,Gaya ,Grocery,Wheat Atta 5kg,2,245,202.86,5.0,UPI
+SE-0885,2025-10-03,C075,Patna,Electronics Accessories,USB-C Cable 1m,1,399,277.13,35.0,Card
+SE-0886,2025-10-04,C136,Patna ,Electronics Accessories,USB-C Cable 1m,2,399,283.7,25.0,Cash
+SE-0887,2025-10-04,C258,Muzaffarpur,Electronics Accessories,USB-C Cable 1m,1,399,284.1,30.0,Card
+SE-0888,2025-10-04,C293,Patna,Grocery,Mustard Oil 1L,1,190,165.22,0.0,UPI
+SE-0889,2025-10-04,C233,Gaya,Snacks,Cream Biscuits 300g,3,40,28.53,10.0,Card
+SE-0890,2025-10-04,C240,Bhagalpur,Home Care,Floor Cleaner 1L,3,190,138.7,5.0,Cash
+SE-0891,2025-10-04,C206,Patna,Electronics Accessories,Bluetooth Earphones,1,1499,1031.09,25.0,Cash
+SE-0892,2025-10-05,C206,Patna,Snacks,Potato Chips 150g,2,50,35.47,0.0,Cash
+SE-0893,2025-10-05,C198,Muzaffarpur,Personal Care,Toothpaste 200g,2,110,80.59,0.0,Cash
+SE-0894,2025-10-05,C203,Patna,Snacks,Cold Drink 2L,2,95,70.17,0.0,Card
+SE-0895,2025-10-05,C065,Patna,Snacks,Namkeen Mix 400g,1,110,80.48,5.0,UPI
+SE-0896,2025-10-06,C217,Muzaffarpur,Personal Care,Toothpaste 200g,3,110,79.64,5.0,UPI
+SE-0897,2025-10-06,C028,Bhagalpur,Electronics Accessories,USB-C Cable 1m,1,399,276.12,30.0,UPI
+SE-0898,2025-10-06,C043,Patna,Snacks,Potato Chips 150g,2,50,35.0,0.0,UPI
+SE-0899,2025-10-06,C152,Muzaffarpur,Grocery,Basmati Rice 5kg,1,620,502.04,10.0,Cash
+SE-0900,2025-10-06,C017,Bhagalpur,Electronics Accessories,USB-C Cable 1m,1,399,281.07,25.0,Card
+SE-0901,2025-10-06,C161,Patna,Grocery,Arhar Dal 1kg,4,160,126.94,5.0,UPI
+SE-0902,2025-10-06,C179,Patna,Personal Care,Bathing Soap 4-pack,1,150,104.02,0.0,Card
+SE-0903,2025-10-07,C063,Patna,Personal Care,Toothpaste 200g,2,110,80.46,0.0,UPI
+SE-0904,2025-10-07,C096,Muzaffarpur,Electronics Accessories,Fast Charger 20W,1,899,631.23,25.0,Wallet
+SE-0905,2025-10-07,C021,Bhagalpur,Snacks,Potato Chips 150g,2,50,35.08,0.0,Card
+SE-0906,2025-10-07,C132,Patna,Grocery,Basmati Rice 5kg,2,620,486.28,0.0,UPI
+SE-0907,2025-10-07,C113,Patna,Snacks,Namkeen Mix 400g,3,110,78.33,0.0,UPI
+SE-0908,2025-10-07,C113,Patna,Snacks,Potato Chips 150g,4,50,35.62,0.0,Card
+SE-0909,2025-10-07,C029,Darbhanga,Snacks,Cold Drink 2L,4,95,70.63,,Cash
+SE-0910,2025-10-07,C291,Muzaffarpur,Home Care,Floor Cleaner 1L,1,190,141.46,5.0,Cash
+SE-0911,2025-10-08,C287,Muzaffarpur,Snacks,Cream Biscuits 300g,1,40,29.1,0.0,Cash
+SE-0912,2025-10-08,C088,Muzaffarpur,Grocery,Arhar Dal 1kg,3,160,127.77,0.0,Cash
+SE-0913,2025-10-08,C230,Muzaffarpur,Personal Care,Toothpaste 200g,2,110,80.25,5.0,Cash
+SE-0914,2025-10-08,C125,Muzaffarpur,Personal Care,Shampoo 340ml,1,285,190.58,5.0,UPI
+SE-0915,2025-10-09,C104,Patna,Personal Care,Toothpaste 200g,2,110,79.72,0.0,Cash
+SE-0916,2025-10-09,C150,Patna,Snacks,Namkeen Mix 400g,5,110,78.88,5.0,Cash
+SE-0917,2025-10-09,C204,Darbhanga,Electronics Accessories,USB-C Cable 1m,1,399,282.73,30.0,UPI
+SE-0918,2025-10-10,C182,Bhagalpur,Electronics Accessories,Bluetooth Earphones,1,1499,1066.4,25.0,UPI
+SE-0919,2025-10-10,C249,Darbhanga,Snacks,Potato Chips 150g,3,50,35.22,0.0,Cash
+SE-0920,2025-10-10,C139,Gaya,Personal Care,Shampoo 340ml,2,285,193.03,,UPI
+SE-0921,2025-10-11,C187,Patna,Snacks,Cream Biscuits 300g,1,40,29.21,5.0,Card
+SE-0922,2025-10-11,C188,Patna,Snacks,Namkeen Mix 400g,5,110,78.61,0.0,UPI
+SE-0923,2025-10-12,C042,Muzaffarpur,Home Care,Detergent Powder 3kg,2,380,294.73,5.0,UPI
+SE-0924,2025-10-12,C068,Patna ,Grocery,Mustard Oil 1L,2,190,166.57,10.0,UPI
+SE-0925,2025-10-12,C021,Darbhanga,Grocery,Arhar Dal 1kg,4,160,130.14,0.0,Card
+SE-0926,2025-10-13,C141,Patna,Electronics Accessories,Power Bank 10000mAh,1,1299,899.01,35.0,Cash
+SE-0927,2025-10-13,C298,Patna,Personal Care,Shampoo 340ml,3,285,192.2,5.0,UPI
+SE-0928,2025-10-13,C153,Patna,Grocery,Wheat Atta 5kg,1,245,201.19,5.0,Card
+SE-0929,2025-10-13,C121,Patna,Electronics Accessories,Power Bank 10000mAh,1,1299,920.97,,Cash
+SE-0930,2025-10-13,C262,Patna,Snacks,Cold Drink 2L,1,95,70.4,0.0,Card
+SE-0931,2025-10-14,C209,Muzaffarpur,Personal Care,Toothpaste 200g,3,110,78.29,0.0,Wallet
+SE-0932,2025-10-14,C216,Darbhanga,Grocery,Arhar Dal 1kg,3,160,130.48,5.0,UPI
+SE-0933,2025-10-14,C270,Darbhanga,Home Care,Detergent Powder 3kg,2,380,293.65,10.0,UPI
+SE-0934,2025-10-14,C292,Muzaffarpur,Grocery,Arhar Dal 1kg,2,160,130.27,10.0,Card
+SE-0935,2025-10-14,C092,Darbhanga,Snacks,Cold Drink 2L,4,95,70.16,5.0,UPI
+SE-0936,2025-10-15,C266,Gaya,Electronics Accessories,Fast Charger 20W,2,899,626.12,25.0,Cash
+SE-0937,2025-10-15,C077,Patna,Snacks,Cold Drink 2L,5,95,69.0,10.0,UPI
+SE-0938,2025-10-15,C094,Darbhanga,Electronics Accessories,Bluetooth Earphones,1,1499,1028.72,25.0,UPI
+SE-0939,2025-10-15,C236,Patna,Home Care,Floor Cleaner 1L,2,190,138.06,0.0,UPI
+SE-0940,2025-10-15,C155,Muzaffarpur,Snacks,Cream Biscuits 300g,1,40,28.36,10.0,Cash
+SE-0941,2025-10-15,C224,Patna,Grocery,Arhar Dal 1kg,2,160,128.15,10.0,Cash
+SE-0942,2025-10-16,C052,Patna,Snacks,Cold Drink 2L,3,95,71.34,5.0,UPI
+SE-0943,2025-10-16,C239,Muzaffarpur,Personal Care,Toothpaste 200g,2,110,78.95,5.0,UPI
+SE-0944,2025-10-17,C124,Muzaffarpur,Electronics Accessories,Bluetooth Earphones,1,1499,1052.84,30.0,UPI
+SE-0945,2025-10-17,C272,Gaya,Snacks,Namkeen Mix 400g,3,110,78.14,0.0,Wallet
+SE-0946,2025-10-17,C172,Gaya,Personal Care,Bathing Soap 4-pack,1,150,106.67,10.0,UPI
+SE-0947,2025-10-17,C043,Patna,Home Care,Floor Cleaner 1L,1,190,138.5,10.0,UPI
+SE-0948,2025-10-17,C151,Bhagalpur,Snacks,Cold Drink 2L,2,95,69.54,0.0,card
+SE-0949,2025-10-17,C067,Bhagalpur,Snacks,Namkeen Mix 400g,1,110,78.17,5.0,UPI
+SE-0950,2025-10-17,C172,Darbhanga,Snacks,Cold Drink 2L,1,95,70.43,5.0,UPI
+SE-0951,2025-10-18,C108,Darbhanga,Electronics Accessories,Fast Charger 20W,1,899,639.31,35.0,Cash
+SE-0952,2025-10-18,C084,Patna,Grocery,Arhar Dal 1kg,1,160,127.42,0.0,UPI
+SE-0953,2025-10-18,C157,Patna,Snacks,Cold Drink 2L,1,95,69.68,5.0,cash
+SE-0954,2025-10-18,C080,Gaya,Personal Care,Toothpaste 200g,4,110,80.1,10.0,UPI
+SE-0955,2025-10-18,C243,Gaya,Grocery,Wheat Atta 5kg,3,245,204.71,0.0,UPI
+SE-0956,2025-10-18,C105,Patna,Snacks,Potato Chips 150g,3,50,34.49,10.0,Wallet
+SE-0957,2025-10-18,C185,Bhagalpur,Electronics Accessories,USB-C Cable 1m,1,399,283.97,35.0,Card
+SE-0958,2025-10-18,C004,Bhagalpur,Personal Care,Bathing Soap 4-pack,3,150,104.41,5.0,Wallet
+SE-0959,2025-10-18,C172,Muzaffarpur,Grocery,Arhar Dal 1kg,5,160,129.36,10.0,UPI
+SE-0960,2025-10-19,C222,Patna,Electronics Accessories,Bluetooth Earphones,1,1499,1051.67,30.0,UPI
+SE-0961,2025-10-19,C111,Gaya,Grocery,Arhar Dal 1kg,2,160,128.8,5.0,UPI
+SE-0962,2025-10-19,C199,Bhagalpur,Grocery,Wheat Atta 5kg,3,245,198.75,0.0,Cash
+SE-0963,2025-10-19,C194,Darbhanga,Electronics Accessories,Bluetooth Earphones,1,1499,1056.96,35.0,UPI
+SE-0964,2025-10-20,C243,Muzaffarpur,Electronics Accessories,USB-C Cable 1m,1,399,282.61,35.0,Cash
+SE-0965,2025-10-20,C076,Muzaffarpur,Electronics Accessories,USB-C Cable 1m,1,399,283.51,25.0,Card
+SE-0966,2025-10-20,C094,Bhagalpur,Electronics Accessories,Bluetooth Earphones,1,1499,1035.59,35.0,Cash
+SE-0967,2025-10-20,C171,Patna,Snacks,Namkeen Mix 400g,2,110,77.67,0.0,Card
+SE-0968,2025-10-20,C043,Muzaffarpur,Snacks,Potato Chips 150g,4,50,35.12,5.0,Card
+SE-0969,2025-10-20,C109,Patna,Grocery,Wheat Atta 5kg,2,245,204.3,10.0,Cash
+SE-0970,2025-10-21,C019,Patna,Grocery,Wheat Atta 5kg,1,245,198.52,5.0,UPI
+SE-0971,2025-10-21,C121,Darbhanga,Electronics Accessories,Bluetooth Earphones,1,1499,1066.51,30.0,Cash
+SE-0972,2025-10-21,C105,Muzaffarpur,Snacks,Namkeen Mix 400g,3,110,79.34,0.0,Cash
+SE-0973,2025-10-21,C009,Gaya,Grocery,Wheat Atta 5kg,1,245,197.69,10.0,UPI
+SE-0974,2025-10-21,C137,Muzaffarpur,Snacks,Potato Chips 150g,2,50,35.36,5.0,Cash
+SE-0975,2025-10-21,C238,Darbhanga,Personal Care,Toothpaste 200g,1,110,78.0,5.0,Cash
+SE-0976,2025-10-21,C295,Patna,Grocery,Basmati Rice 5kg,5,620,486.36,0.0,UPI
+SE-0977,2025-10-22,C169,Patna,Grocery,Wheat Atta 5kg,1,245,204.48,0.0,UPI
+SE-0977,2025-10-22,C169,Patna,Grocery,Wheat Atta 5kg,1,245,204.48,0.0,UPI
+SE-0978,2025-10-22,C045,Muzaffarpur,Personal Care,Bathing Soap 4-pack,2,150,103.3,10.0,Cash
+SE-0979,2025-10-22,C154,Patna,Electronics Accessories,Fast Charger 20W,1,899,628.79,40.0,Card
+SE-0980,2025-10-22,C148,Patna,Grocery,Mustard Oil 1L,1,190,164.46,0.0,UPI
+SE-0981,2025-10-23,C292,Bhagalpur,Snacks,Potato Chips 150g,3,50,35.69,0.0,UPI
+SE-0982,2025-10-23,C228,Patna,Grocery,Mustard Oil 1L,3,190,165.76,5.0,UPI
+SE-0983,2025-10-23,C082,Patna,Electronics Accessories,Bluetooth Earphones,1,1499,1054.03,35.0,UPI
+SE-0984,2025-10-24,C088,Darbhanga,Electronics Accessories,Fast Charger 20W,2,899,630.48,40.0,UPI
+SE-0985,2025-10-24,C132,Patna,Snacks,Cold Drink 2L,3,95,69.78,0.0,UPI
+SE-0986,2025-10-24,C125,Bhagalpur,Home Care,Floor Cleaner 1L,2,190,138.43,5.0,Card
+SE-0987,2025-10-25,C191,Patna,Grocery,Arhar Dal 1kg,2,160,125.74,5.0,UPI
+SE-0988,2025-10-25,C288,Gaya,Grocery,Basmati Rice 5kg,2,620,486.09,10.0,UPI
+SE-0989,2025-10-25,C250,Darbhanga,Snacks,Cold Drink 2L,3,95,70.85,10.0,Cash
+SE-0990,2025-10-25,C142,Darbhanga,Personal Care,Bathing Soap 4-pack,2,150,105.82,5.0,UPI
+SE-0991,2025-10-25,C099,Muzaffarpur,Grocery,Arhar Dal 1kg,2,160,129.85,5.0,Cash
+SE-0992,2025-10-25,C224,Muzaffarpur,Personal Care,Toothpaste 200g,1,110,78.5,0.0,UPI
+SE-0993,2025-10-26,C047,Gaya,Electronics Accessories,USB-C Cable 1m,2,399,280.22,25.0,UPI
+SE-0994,2025-10-26,C137,Darbhanga,Electronics Accessories,USB-C Cable 1m,1,399,282.19,30.0,UPI
+SE-0995,2025-10-26,C003,Muzaffarpur,Grocery,Basmati Rice 5kg,1,620,492.25,10.0,Card
+SE-0996,2025-10-26,C060,Bhagalpur,Snacks,Potato Chips 150g,2,50,34.95,0.0,UPI
+SE-0997,2025-10-26,C064,Darbhanga,Snacks,Cold Drink 2L,2,95,69.99,5.0,UPI
+SE-0998,2025-10-26,C056,Patna,Home Care,Floor Cleaner 1L,2,190,138.98,5.0,Cash
+SE-0999,2025-10-26,C227,Muzaffarpur,Electronics Accessories,USB-C Cable 1m,2,399,284.36,25.0,cash
+SE-1000,2025-10-26,C166,Gaya,Electronics Accessories,Power Bank 10000mAh,1,1299,911.19,35.0,Wallet
+SE-1001,2025-10-26,C113,Bhagalpur,Personal Care,Bathing Soap 4-pack,1,150,105.52,0.0,UPI
+SE-1002,2025-10-27,C153,Bhagalpur,Personal Care,Bathing Soap 4-pack,2,150,105.84,0.0,UPI
+SE-1003,2025-10-27,C159,Muzaffarpur,Personal Care,Bathing Soap 4-pack,1,150,103.76,5.0,Cash
+SE-1004,2025-10-27,C190,Muzaffarpur,Electronics Accessories,Power Bank 10000mAh,1,1299,911.76,35.0,UPI
+SE-1005,2025-10-27,C184,Patna,Grocery,Wheat Atta 5kg,1,245,202.6,0.0,Cash
+SE-1006,2025-10-27,C062,Darbhanga,Home Care,Detergent Powder 3kg,1,380,299.05,10.0,Card
+SE-1007,2025-10-27,C163,Patna,Personal Care,Bathing Soap 4-pack,2,150,106.65,5.0,UPI
+SE-1008,2025-10-28,C067,Darbhanga,Snacks,Potato Chips 150g,1,50,34.37,0.0,UPI
+SE-1009,2025-10-28,C199,Patna,Snacks,Cold Drink 2L,3,95,70.06,0.0,UPI
+SE-1010,2025-10-29,C076,Muzaffarpur,Snacks,Cold Drink 2L,1,95,69.85,10.0,Cash
+SE-1011,2025-10-29,C201,Muzaffarpur,Grocery,Arhar Dal 1kg,2,160,129.86,5.0,Wallet
+SE-1012,2025-10-29,C014,Darbhanga,Electronics Accessories,Bluetooth Earphones,1,1499,1051.89,30.0,UPI
+SE-1013,2025-10-29,C231,Darbhanga,Electronics Accessories,Power Bank 10000mAh,1,1299,918.05,30.0,UPI
+SE-1014,2025-10-29,C072,Muzaffarpur,Home Care,Detergent Powder 3kg,2,380,291.02,5.0,UPI
+SE-1015,2025-10-29,C139,Muzaffarpur,Personal Care,Bathing Soap 4-pack,3,150,105.05,5.0,UPI
+SE-1016,2025-10-30,C274,Patna,Snacks,Cold Drink 2L,2,95,71.21,5.0,upi
+SE-1017,2025-10-30,C082,Darbhanga,Snacks,Potato Chips 150g,3,50,34.81,10.0,Cash
+SE-1018,2025-10-30,C153,Gaya,Home Care,Floor Cleaner 1L,2,190,141.3,0.0,Card
+SE-1019,2025-10-30,C164,Patna ,Grocery,Wheat Atta 5kg,1,245,203.99,10.0,UPI
+SE-1020,2025-10-30,C085,Darbhanga,Home Care,Detergent Powder 3kg,4,380,299.01,0.0,UPI
+SE-1021,2025-10-30,C093,Patna,Electronics Accessories,USB-C Cable 1m,1,399,275.61,25.0,Cash
+SE-1022,2025-10-30,C066,Bhagalpur,Snacks,Namkeen Mix 400g,2,110,79.63,0.0,Card
+SE-1023,2025-10-30,C038,Darbhanga ,Snacks,Namkeen Mix 400g,2,110,79.66,5.0,UPI
+SE-1024,2025-10-31,C188,Muzaffarpur,Grocery,Mustard Oil 1L,2,190,165.71,5.0,upi
+SE-1025,2025-10-31,C135,Muzaffarpur,Electronics Accessories,USB-C Cable 1m,1,399,283.03,35.0,Cash
+SE-1026,2025-10-31,C024,Bhagalpur,Grocery,Wheat Atta 5kg,2,245,197.79,0.0,UPI
+SE-1027,2025-10-31,C079,Patna,Personal Care,Bathing Soap 4-pack,1,150,103.15,0.0,Cash
+SE-1028,2025-10-31,C225,Gaya,Electronics Accessories,USB-C Cable 1m,1,399,276.92,25.0,Cash
+SE-1029,2025-11-01,C067,Muzaffarpur,Grocery,Basmati Rice 5kg,3,620,504.88,5.0,Cash
+SE-1030,2025-11-01,C290,Gaya,Grocery,Arhar Dal 1kg,3,160,128.57,10.0,Wallet
+SE-1031,2025-11-01,C246,Gaya,Electronics Accessories,Power Bank 10000mAh,1,1299,907.57,40.0,Card
+SE-1032,2025-11-02,C196,Patna,Snacks,Potato Chips 150g,1,50,35.69,10.0,UPI
+SE-1033,2025-11-02,C131,Patna,Personal Care,Shampoo 340ml,1,285,190.86,0.0,UPI
+SE-1034,2025-11-02,C222,Bhagalpur,Snacks,Namkeen Mix 400g,3,110,79.57,0.0,UPI
+SE-1035,2025-11-02,C288,Gaya,Grocery,Basmati Rice 5kg,1,620,494.09,0.0,Wallet
+SE-1036,2025-11-02,C261,Patna,Electronics Accessories,Fast Charger 20W,1,899,627.2,35.0,UPI
+SE-1037,2025-11-02,C021,Gaya,Snacks,Namkeen Mix 400g,2,110,79.54,10.0,Cash
+SE-1038,2025-11-03,C035,Patna,Home Care,Floor Cleaner 1L,2,190,141.64,5.0,UPI
+SE-1039,2025-11-03,C140,Patna ,Personal Care,Toothpaste 200g,1,110,78.67,0.0,Cash
+SE-1040,2025-11-03,C169,Gaya,Grocery,Wheat Atta 5kg,3,245,202.78,5.0,Card
+SE-1041,2025-11-04,C072,Patna,Personal Care,Shampoo 340ml,1,285,191.11,0.0,Cash
+SE-1042,2025-11-04,C121,Muzaffarpur,Grocery,Arhar Dal 1kg,2,160,127.84,0.0,UPI
+SE-1043,2025-11-04,C018,Gaya,Electronics Accessories,USB-C Cable 1m,1,399,276.78,30.0,UPI
+SE-1044,2025-11-04,C159,Muzaffarpur,Grocery,Wheat Atta 5kg,4,245,204.82,5.0,UPI
+SE-1045,2025-11-04,C244,Gaya,Snacks,Cream Biscuits 300g,3,40,28.73,10.0,UPI
+SE-1046,2025-11-04,C206,Bhagalpur,Snacks,Namkeen Mix 400g,1,110,79.77,0.0,UPI
+SE-1047,2025-11-04,C284,Patna,Grocery,Wheat Atta 5kg,2,245,204.9,0.0,Cash
+SE-1048,2025-11-04,C200,Patna,Electronics Accessories,Bluetooth Earphones,2,1499,1046.75,35.0,UPI
+SE-1049,2025-11-04,C226,Gaya,Electronics Accessories,Power Bank 10000mAh,1,1299,902.96,40.0,UPI
+SE-1050,2025-11-05,C211,Patna ,Personal Care,Shampoo 340ml,5,285,194.4,0.0,UPI
+SE-1051,2025-11-05,C049,Bhagalpur,Electronics Accessories,Power Bank 10000mAh,2,1299,904.28,40.0,Cash
+SE-1052,2025-11-06,C004,Patna,Snacks,Namkeen Mix 400g,3,110,80.06,0.0,Card
+SE-1053,2025-11-06,C223,Patna,Personal Care,Shampoo 340ml,3,285,196.09,0.0,Cash
+SE-1054,2025-11-06,C116,Muzaffarpur,Personal Care,Shampoo 340ml,2,285,190.16,0.0,Card
+SE-1055,2025-11-06,C192,Patna,Snacks,Potato Chips 150g,2,50,34.76,5.0,Cash
+SE-1056,2025-11-06,C242,Patna,Snacks,Cream Biscuits 300g,2,40,29.37,10.0,Cash
+SE-1057,2025-11-06,C131,Bhagalpur,Personal Care,Toothpaste 200g,1,110,79.7,5.0,UPI
+SE-1058,2025-11-07,C019,Gaya,Snacks,Potato Chips 150g,1,50,34.54,5.0,Cash
+SE-1059,2025-11-07,C077,Darbhanga ,Snacks,Cream Biscuits 300g,2,40,28.36,0.0,UPI
+SE-1060,2025-11-07,C025,Patna,Grocery,Arhar Dal 1kg,5,160,128.71,5.0,Cash
+SE-1061,2025-11-07,C081,Bhagalpur,Home Care,Floor Cleaner 1L,1,190,137.88,0.0,cash
+SE-1062,2025-11-07,C033,Muzaffarpur,Snacks,Cream Biscuits 300g,5,40,28.34,10.0,UPI
+SE-1063,2025-11-07,C260,Patna,Personal Care,Toothpaste 200g,3,110,79.43,0.0,Cash
+SE-1064,2025-11-08,C042,Patna,Grocery,Wheat Atta 5kg,2,245,201.84,0.0,Cash
+SE-1065,2025-11-08,C298,Gaya,Snacks,Cold Drink 2L,2,95,70.76,10.0,Wallet
+SE-1066,2025-11-08,C121,Patna,Snacks,Cold Drink 2L,1,95,70.29,10.0,upi
+SE-1067,2025-11-09,C019,Muzaffarpur,Electronics Accessories,USB-C Cable 1m,1,399,277.23,35.0,Card
+SE-1068,2025-11-09,C288,Patna,Grocery,Arhar Dal 1kg,1,160,129.11,10.0,UPI
+SE-1069,2025-11-09,C136,Patna,Grocery,Wheat Atta 5kg,2,245,200.08,5.0,Cash
+SE-1070,2025-11-09,C255,Gaya,Grocery,Wheat Atta 5kg,1,245,202.11,0.0,UPI
+SE-1071,2025-11-09,C086,Bhagalpur,Snacks,Potato Chips 150g,2,50,34.64,5.0,UPI
+SE-1072,2025-11-09,C124,Darbhanga,Personal Care,Bathing Soap 4-pack,2,150,106.44,5.0,Card
+SE-1073,2025-11-10,C185,Gaya,Grocery,Mustard Oil 1L,1,190,168.16,5.0,card
+SE-1074,2025-11-10,C142,Patna ,Personal Care,Shampoo 340ml,2,285,193.63,5.0,UPI
+SE-1075,2025-11-10,C079,Bhagalpur,Snacks,Cold Drink 2L,3,95,70.35,0.0,UPI
+SE-1076,2025-11-11,C221,Gaya,Snacks,Namkeen Mix 400g,2,110,78.83,10.0,UPI
+SE-1077,2025-11-11,C125,Gaya,Snacks,Cold Drink 2L,1,95,69.18,5.0,Card
+SE-1078,2025-11-11,C178,Bhagalpur,Home Care,Detergent Powder 3kg,1,380,294.4,0.0,cash
+SE-1079,2025-11-12,C270,Darbhanga ,Grocery,Basmati Rice 5kg,3,620,501.71,0.0,Card
+SE-1080,2025-11-12,C267,Darbhanga,Snacks,Cold Drink 2L,2,95,70.06,5.0,Card
+SE-1081,2025-11-12,C038,Patna,Personal Care,Shampoo 340ml,2,285,197.19,10.0,card
+SE-1082,2025-11-12,C074,Patna,Electronics Accessories,USB-C Cable 1m,1,399,277.6,30.0,UPI
+SE-1083,2025-11-13,C135,Gaya,Snacks,Potato Chips 150g,4,50,34.4,5.0,UPI
+SE-1084,2025-11-13,C221,Muzaffarpur,Snacks,Namkeen Mix 400g,1,110,80.58,5.0,UPI
+SE-1085,2025-11-14,C133,Muzaffarpur,Personal Care,Toothpaste 200g,1,110,78.93,0.0,UPI
+SE-1086,2025-11-14,C029,Bhagalpur,Grocery,Mustard Oil 1L,3,190,162.78,0.0,Card
+SE-1087,2025-11-14,C143,Patna,Grocery,Arhar Dal 1kg,2,160,129.69,5.0,Cash
+SE-1088,2025-11-14,C117,Gaya,Snacks,Potato Chips 150g,3,50,34.47,5.0,UPI
+SE-1089,2025-11-15,C233,Gaya,Snacks,Potato Chips 150g,2,50,35.33,10.0,Cash
+SE-1090,2025-11-15,C244,Gaya,Home Care,Detergent Powder 3kg,3,380,293.19,10.0,UPI
+SE-1091,2025-11-16,C294,Patna,Personal Care,Bathing Soap 4-pack,3,150,105.73,0.0,Card
+SE-1092,2025-11-16,C237,Patna,Snacks,Cream Biscuits 300g,2,40,28.68,0.0,UPI
+SE-1093,2025-11-17,C267,Gaya,Grocery,Wheat Atta 5kg,4,245,202.76,0.0,Wallet
+SE-1094,2025-11-17,C020,Patna,Home Care,Detergent Powder 3kg,1,380,299.86,5.0,Cash
+SE-1095,2025-11-19,C228,Darbhanga,Grocery,Wheat Atta 5kg,2,245,198.59,5.0,Wallet
+SE-1096,2025-11-19,C159,Gaya,Grocery,Mustard Oil 1L,2,190,163.73,0.0,UPI
+SE-1097,2025-11-19,C251,Darbhanga,Snacks,Cream Biscuits 300g,3,40,29.09,10.0,UPI
+SE-1098,2025-11-19,C173,Patna,Snacks,Namkeen Mix 400g,1,110,78.3,0.0,Cash
+SE-1099,2025-11-20,C150,Gaya,Grocery,Mustard Oil 1L,3,190,164.58,5.0,UPI
+SE-1100,2025-11-20,C215,Patna,Home Care,Floor Cleaner 1L,2,190,138.6,0.0,Wallet
+SE-1101,2025-11-20,C136,Muzaffarpur,Home Care,Detergent Powder 3kg,2,380,295.41,0.0,UPI
+SE-1102,2025-11-21,C222,Gaya,Personal Care,Toothpaste 200g,3,110,79.99,5.0,Cash
+SE-1103,2025-11-21,C019,Patna,Electronics Accessories,USB-C Cable 1m,1,399,281.68,40.0,UPI
+SE-1104,2025-11-21,C091,Bhagalpur,Personal Care,Toothpaste 200g,2,110,78.21,0.0,Cash
+SE-1105,2025-11-22,C033,Gaya,Snacks,Cold Drink 2L,2,95,71.18,5.0,Card
+SE-1106,2025-11-22,C174,Bhagalpur,Grocery,Mustard Oil 1L,1,190,162.72,0.0,UPI
+SE-1107,2025-11-22,C024,Muzaffarpur,Grocery,Wheat Atta 5kg,2,245,204.83,5.0,upi
+SE-1108,2025-11-22,C229,Patna,Electronics Accessories,USB-C Cable 1m,1,399,277.18,30.0,Cash
+SE-1109,2025-11-22,C208,Patna,Personal Care,Toothpaste 200g,3,110,78.06,0.0,Cash
+SE-1110,2025-11-23,C118,Gaya,Electronics Accessories,USB-C Cable 1m,1,399,283.82,25.0,UPI
+SE-1111,2025-11-23,C121,Patna,Grocery,Arhar Dal 1kg,1,160,129.05,0.0,Cash
+SE-1112,2025-11-23,C169,Darbhanga,Personal Care,Shampoo 340ml,2,285,197.47,0.0,UPI
+SE-1113,2025-11-23,C263,Patna,Electronics Accessories,USB-C Cable 1m,1,399,278.28,25.0,Card
+SE-1114,2025-11-23,C075,Muzaffarpur,Personal Care,Bathing Soap 4-pack,1,150,105.16,0.0,UPI
+SE-1115,2025-11-23,C113,Bhagalpur,Snacks,Cream Biscuits 300g,2,40,28.25,5.0,cash
+SE-1116,2025-11-23,C041,Patna,Electronics Accessories,Fast Charger 20W,1,899,632.8,25.0,UPI
+SE-1117,2025-11-24,C113,Patna,Personal Care,Toothpaste 200g,1,110,79.7,5.0,UPI
+SE-1118,2025-11-24,C230,Muzaffarpur,Snacks,Potato Chips 150g,1,50,35.29,5.0,Cash
+SE-1119,2025-11-25,C042,Patna,Personal Care,Shampoo 340ml,1,285,195.68,10.0,UPI
+SE-1120,2025-11-26,C032,Patna,Electronics Accessories,Power Bank 10000mAh,1,1299,896.99,40.0,Card
+SE-1121,2025-11-27,C188,Muzaffarpur,Electronics Accessories,USB-C Cable 1m,1,399,282.21,25.0,card
+SE-1122,2025-11-27,C027,Patna,Home Care,Detergent Powder 3kg,2,380,296.92,0.0,UPI
+SE-1123,2025-11-27,C013,Muzaffarpur,Electronics Accessories,Fast Charger 20W,1,899,620.85,35.0,UPI
+SE-1124,2025-11-27,C177,Patna,Electronics Accessories,Bluetooth Earphones,1,1499,1034.17,40.0,Cash
+SE-1125,2025-11-27,C026,Muzaffarpur,Electronics Accessories,Bluetooth Earphones,1,1499,1037.62,40.0,Cash
+SE-1126,2025-11-27,C041,Patna,Grocery,Basmati Rice 5kg,1,620,501.08,0.0,UPI
+SE-1127,2025-11-28,C076,Darbhanga,Snacks,Cream Biscuits 300g,2,40,28.39,10.0,Cash
+SE-1128,2025-11-28,C024,Patna,Electronics Accessories,USB-C Cable 1m,1,399,282.94,40.0,UPI
+SE-1129,2025-11-28,C247,Muzaffarpur,Personal Care,Toothpaste 200g,1,110,80.16,0.0,Card
+SE-1130,2025-11-28,C170,Bhagalpur,Electronics Accessories,USB-C Cable 1m,1,399,274.32,25.0,Card
+SE-1131,2025-11-28,C259,Muzaffarpur,Grocery,Basmati Rice 5kg,5,620,500.34,5.0,UPI
+SE-1132,2025-11-29,C171,Gaya,Home Care,Detergent Powder 3kg,5,380,296.5,5.0,Cash
+SE-1133,2025-11-29,C021,Gaya,Grocery,Arhar Dal 1kg,3,160,126.23,5.0,Card
+SE-1134,2025-11-29,C182,Patna,Grocery,Arhar Dal 1kg,1,160,125.62,0.0,UPI
+SE-1135,2025-11-29,C015,Patna ,Electronics Accessories,USB-C Cable 1m,1,399,274.1,35.0,UPI
+SE-1136,2025-11-30,C180,Patna,Snacks,Namkeen Mix 400g,1,110,78.63,0.0,UPI
+SE-1137,2025-11-30,C077,Muzaffarpur,Snacks,Cream Biscuits 300g,1,40,28.36,0.0,Card
+SE-1138,2025-11-30,C207,Gaya ,Snacks,Cold Drink 2L,1,95,69.84,0.0,UPI
+SE-1139,2025-12-02,C041,Bhagalpur,Snacks,Namkeen Mix 400g,2,110,80.63,0.0,upi
+SE-1140,2025-12-02,C041,Gaya ,Snacks,Potato Chips 150g,2,50,35.51,0.0,UPI
+SE-1141,2025-12-02,C240,Darbhanga,Snacks,Potato Chips 150g,1,50,34.51,5.0,Card
+SE-1142,2025-12-02,C131,Patna,Grocery,Mustard Oil 1L,1,190,164.51,0.0,Cash
+SE-1143,2025-12-03,C133,Darbhanga,Electronics Accessories,USB-C Cable 1m,1,399,278.25,40.0,UPI
+SE-1144,2025-12-03,C096,Patna,Grocery,Wheat Atta 5kg,1,245,200.25,0.0,UPI
+SE-1145,2025-12-03,C200,Patna,Snacks,Potato Chips 150g,2,50,35.02,0.0,Wallet
+SE-1146,2025-12-03,C092,Muzaffarpur,Snacks,Namkeen Mix 400g,3,110,80.58,0.0,UPI
+SE-1147,2025-12-03,C020,Patna,Electronics Accessories,Bluetooth Earphones,1,1499,1028.92,35.0,UPI
+SE-1148,2025-12-03,C231,Patna,Grocery,Arhar Dal 1kg,3,160,129.88,0.0,Cash
+SE-1149,2025-12-03,C123,Gaya,Grocery,Arhar Dal 1kg,1,160,130.51,5.0,UPI
+SE-1150,2025-12-04,C086,Darbhanga,Electronics Accessories,USB-C Cable 1m,1,399,279.78,25.0,UPI
+SE-1151,2025-12-04,C255,Gaya,Home Care,Floor Cleaner 1L,1,190,138.2,0.0,card
+SE-1152,2025-12-04,C247,Patna,Home Care,Detergent Powder 3kg,1,380,293.42,0.0,Cash
+SE-1153,2025-12-04,C212,Muzaffarpur,Grocery,Wheat Atta 5kg,1,245,198.87,10.0,UPI
+SE-1154,2025-12-05,C201,Muzaffarpur,Grocery,Wheat Atta 5kg,3,245,202.57,5.0,cash
+SE-1155,2025-12-05,C267,Patna,Electronics Accessories,Fast Charger 20W,1,899,633.0,35.0,UPI
+SE-1156,2025-12-05,C190,Bhagalpur,Grocery,Basmati Rice 5kg,1,620,490.83,5.0,Card
+SE-1156,2025-12-05,C190,Bhagalpur,Grocery,Basmati Rice 5kg,1,620,490.83,5.0,Card
+SE-1157,2025-12-06,C163,Darbhanga,Snacks,Cold Drink 2L,4,95,70.33,5.0,Cash
+SE-1158,2025-12-06,C115,Darbhanga,Grocery,Wheat Atta 5kg,3,245,197.91,5.0,Cash
+SE-1159,2025-12-06,C108,Muzaffarpur,Snacks,Cream Biscuits 300g,1,40,29.35,10.0,Cash
+SE-1160,2025-12-06,C048,Patna,Home Care,Detergent Powder 3kg,2,380,299.32,5.0,Cash
+SE-1161,2025-12-07,C258,Gaya,Personal Care,Toothpaste 200g,2,110,80.22,5.0,UPI
+SE-1162,2025-12-07,C049,Gaya,Home Care,Detergent Powder 3kg,2,380,298.63,10.0,UPI
+SE-1163,2025-12-08,C212,Bhagalpur,Snacks,Potato Chips 150g,1,50,35.15,0.0,UPI
+SE-1164,2025-12-08,C086,Bhagalpur,Electronics Accessories,Fast Charger 20W,1,899,620.26,40.0,UPI
+SE-1165,2025-12-09,C102,Patna,Snacks,Namkeen Mix 400g,1,110,79.82,0.0,Card
+SE-1166,2025-12-10,C005,Patna,Personal Care,Toothpaste 200g,2,110,78.0,5.0,UPI
+SE-1167,2025-12-10,C037,Muzaffarpur,Snacks,Potato Chips 150g,2,50,34.99,5.0,Card
+SE-1168,2025-12-10,C293,Patna,Personal Care,Toothpaste 200g,2,110,79.6,0.0,UPI
+SE-1169,2025-12-10,C087,Bhagalpur,Personal Care,Shampoo 340ml,1,285,197.06,10.0,Card
+SE-1170,2025-12-11,C098,Muzaffarpur ,Home Care,Floor Cleaner 1L,5,190,143.32,0.0,UPI
+SE-1171,2025-12-11,C232,Patna,Snacks,Namkeen Mix 400g,3,110,79.1,5.0,Card
+SE-1172,2025-12-11,C152,Darbhanga ,Grocery,Basmati Rice 5kg,3,620,499.05,5.0,UPI
+SE-1173,2025-12-12,C242,Gaya,Home Care,Detergent Powder 3kg,2,380,291.35,5.0,Cash
+SE-1174,2025-12-12,C200,Muzaffarpur ,Snacks,Cold Drink 2L,2,95,69.18,5.0,UPI
+SE-1174,2025-12-12,C200,Muzaffarpur ,Snacks,Cold Drink 2L,2,95,69.18,5.0,UPI
+SE-1175,2025-12-13,C192,Patna,Snacks,Cream Biscuits 300g,3,40,28.48,10.0,Card
+SE-1176,2025-12-13,C257,Muzaffarpur,Home Care,Detergent Powder 3kg,5,380,293.38,5.0,Cash
+SE-1177,2025-12-13,C172,Patna,Home Care,Detergent Powder 3kg,1,380,302.12,5.0,UPI
+SE-1178,2025-12-14,C237,Muzaffarpur,Electronics Accessories,Bluetooth Earphones,1,1499,1068.6,40.0,Cash
+SE-1179,2025-12-14,C051,Patna,Grocery,Wheat Atta 5kg,3,245,197.64,5.0,UPI
+SE-1180,2025-12-14,C023,Muzaffarpur,Personal Care,Toothpaste 200g,1,110,80.29,10.0,UPI
+SE-1181,2025-12-14,C079,Muzaffarpur,Personal Care,Bathing Soap 4-pack,2,150,103.74,0.0,UPI
+SE-1182,2025-12-14,C259,Patna,Snacks,Cream Biscuits 300g,1,40,28.93,0.0,Cash
+SE-1183,2025-12-14,C138,Gaya,Electronics Accessories,USB-C Cable 1m,1,399,282.73,35.0,UPI
+SE-1184,2025-12-15,C146,Gaya ,Grocery,Arhar Dal 1kg,2,160,128.79,0.0,upi
+SE-1185,2025-12-16,C091,Bhagalpur,Electronics Accessories,USB-C Cable 1m,1,399,277.39,35.0,UPI
+SE-1186,2025-12-16,C240,Patna,Personal Care,Toothpaste 200g,1,110,79.6,5.0,Card
+SE-1187,2025-12-16,C247,Patna,Snacks,Potato Chips 150g,2,50,35.59,0.0,UPI
+SE-1188,2025-12-16,C204,Patna,Snacks,Potato Chips 150g,4,50,35.62,10.0,UPI
+SE-1189,2025-12-16,C040,Muzaffarpur ,Electronics Accessories,Power Bank 10000mAh,1,1299,901.62,25.0,UPI
+SE-1190,2025-12-16,C239,Patna,Snacks,Cold Drink 2L,2,95,70.97,5.0,Card
+SE-1191,2025-12-16,C231,Gaya,Personal Care,Bathing Soap 4-pack,1,150,106.08,5.0,UPI
+SE-1192,2025-12-17,C262,Gaya,Snacks,Cream Biscuits 300g,4,40,28.8,10.0,UPI
+SE-1193,2025-12-17,C085,Patna ,Snacks,Cream Biscuits 300g,5,40,29.21,5.0,UPI
+SE-1194,2025-12-17,C211,Muzaffarpur,Grocery,Arhar Dal 1kg,1,160,129.1,5.0,Card
+SE-1195,2025-12-18,C220,Patna,Personal Care,Toothpaste 200g,3,110,78.1,5.0,Card
+SE-1196,2025-12-18,C299,Bhagalpur,Grocery,Basmati Rice 5kg,2,620,504.43,5.0,UPI
+SE-1197,2025-12-19,C273,Muzaffarpur,Grocery,Arhar Dal 1kg,2,160,126.63,5.0,cash
+SE-1198,2025-12-20,C034,Gaya,Grocery,Wheat Atta 5kg,4,245,197.78,5.0,Cash
+SE-1199,2025-12-20,C128,Patna,Electronics Accessories,USB-C Cable 1m,1,399,277.19,30.0,Cash
+SE-1200,2025-12-20,C096,Bhagalpur,Snacks,Potato Chips 150g,2,50,35.51,0.0,Cash
+SE-1201,2025-12-20,C167,Gaya,Snacks,Namkeen Mix 400g,2,110,79.28,5.0,UPI
+SE-1202,2025-12-20,C079,Bhagalpur,Snacks,Cream Biscuits 300g,1,40,29.17,10.0,UPI
+SE-1203,2025-12-21,C006,Darbhanga,Personal Care,Toothpaste 200g,4,110,77.94,5.0,UPI
+SE-1204,2025-12-21,C184,Patna ,Snacks,Cream Biscuits 300g,2,40,29.15,5.0,UPI
+SE-1205,2025-12-21,C178,Gaya,Grocery,Wheat Atta 5kg,2,245,204.16,0.0,Wallet
+SE-1206,2025-12-21,C055,Patna,Personal Care,Shampoo 340ml,4,285,197.21,0.0,Cash
+SE-1207,2025-12-21,C131,Darbhanga,Grocery,Wheat Atta 5kg,2,245,199.66,10.0,UPI
+SE-1208,2025-12-21,C264,Bhagalpur,Grocery,Wheat Atta 5kg,2,245,202.05,5.0,UPI
+SE-1209,2025-12-22,C296,Darbhanga,Electronics Accessories,USB-C Cable 1m,1,399,281.31,30.0,UPI
+SE-1210,2025-12-22,C233,Patna,Snacks,Cream Biscuits 300g,2,40,28.5,0.0,Cash
+SE-1211,2025-12-22,C029,Muzaffarpur,Snacks,Cream Biscuits 300g,2,40,28.27,5.0,Card
+SE-1212,2025-12-22,C170,Darbhanga ,Snacks,Potato Chips 150g,2,50,35.67,10.0,UPI
+SE-1213,2025-12-22,C037,Gaya,Snacks,Potato Chips 150g,1,50,34.41,5.0,Card
+SE-1214,2025-12-22,C244,Patna,Snacks,Potato Chips 150g,4,50,34.46,0.0,upi
+SE-1215,2025-12-23,C045,Darbhanga,Snacks,Cold Drink 2L,1,95,70.92,0.0,UPI
+SE-1216,2025-12-23,C285,Patna,Grocery,Mustard Oil 1L,1,190,167.3,5.0,UPI
+SE-1216,2025-12-23,C285,Patna,Grocery,Mustard Oil 1L,1,190,167.3,5.0,UPI
+SE-1217,2025-12-23,C092,Bhagalpur,Snacks,Potato Chips 150g,2,50,34.53,10.0,card
+SE-1218,2025-12-23,C089,Gaya,Grocery,Wheat Atta 5kg,3,245,201.83,10.0,UPI
+SE-1219,2025-12-24,C244,Gaya,Electronics Accessories,Bluetooth Earphones,1,1499,1046.43,35.0,Wallet
+SE-1220,2025-12-24,C118,Patna,Electronics Accessories,Fast Charger 20W,1,899,633.36,25.0,Card
+SE-1221,2025-12-24,C148,Bhagalpur,Personal Care,Toothpaste 200g,1,110,79.27,10.0,Cash
+SE-1222,2025-12-25,C173,Patna,Snacks,Potato Chips 150g,1,50,35.25,0.0,UPI
+SE-1223,2025-12-25,C212,Patna,Electronics Accessories,USB-C Cable 1m,1,399,282.52,40.0,UPI
+SE-1224,2025-12-25,C051,Bhagalpur,Personal Care,Toothpaste 200g,1,110,80.54,5.0,UPI
+SE-1225,2025-12-26,C056,Gaya,Grocery,Wheat Atta 5kg,1,245,200.98,0.0,Cash
+SE-1226,2025-12-26,C061,Muzaffarpur,Personal Care,Bathing Soap 4-pack,1,150,106.49,5.0,UPI
+SE-1227,2025-12-27,C075,Darbhanga,Snacks,Potato Chips 150g,1,50,34.59,5.0,UPI
+SE-1228,2025-12-27,C220,Patna,Personal Care,Toothpaste 200g,2,110,79.47,5.0,UPI
+SE-1229,2025-12-28,C295,Patna,Snacks,Cold Drink 2L,2,95,71.2,0.0,Wallet
+SE-1230,2025-12-28,C072,Muzaffarpur,Personal Care,Toothpaste 200g,3,110,77.72,5.0,UPI
+SE-1231,2025-12-28,C251,Bhagalpur,Snacks,Namkeen Mix 400g,2,110,80.22,0.0,UPI
+SE-1232,2025-12-28,C075,Gaya,Personal Care,Toothpaste 200g,2,110,78.12,0.0,UPI
+SE-1233,2025-12-28,C181,Bhagalpur,Electronics Accessories,USB-C Cable 1m,1,399,284.68,40.0,upi
+SE-1234,2025-12-28,C087,Bhagalpur,Snacks,Potato Chips 150g,2,50,34.74,0.0,UPI
+SE-1235,2025-12-28,C155,Gaya,Electronics Accessories,Bluetooth Earphones,1,1499,1039.95,35.0,UPI
+SE-1236,2025-12-28,C070,Bhagalpur,Grocery,Wheat Atta 5kg,4,245,197.27,0.0,Card
+SE-1237,2025-12-28,C294,Darbhanga,Snacks,Cold Drink 2L,1,95,71.54,10.0,UPI
+SE-1238,2025-12-28,C102,Muzaffarpur,Snacks,Namkeen Mix 400g,1,110,80.13,5.0,UPI
+SE-1239,2025-12-29,C290,Patna,Snacks,Cold Drink 2L,4,95,70.61,5.0,Card
+SE-1240,2025-12-29,C109,Patna,Grocery,Basmati Rice 5kg,2,620,491.68,5.0,Card
+SE-1241,2025-12-29,C029,Patna,Snacks,Cold Drink 2L,2,95,71.29,0.0,UPI
+SE-1242,2025-12-29,C238,Patna,Snacks,Cream Biscuits 300g,3,40,28.29,0.0,UPI
+SE-1242,2025-12-29,C238,Patna,Snacks,Cream Biscuits 300g,3,40,28.29,0.0,UPI
+SE-1243,2025-12-30,C263,Bhagalpur,Snacks,Cream Biscuits 300g,2,40,28.72,0.0,Wallet
+SE-1244,2025-12-30,C056,Muzaffarpur,Personal Care,Bathing Soap 4-pack,3,150,106.75,0.0,UPI
+SE-1245,2025-12-30,C275,Muzaffarpur,Grocery,Basmati Rice 5kg,1,620,501.76,5.0,UPI
+SE-1246,2025-12-30,C061,Patna,Snacks,Cream Biscuits 300g,1,40,29.37,5.0,UPI
+SE-1247,2025-12-30,C175,Muzaffarpur,Home Care,Floor Cleaner 1L,2,190,143.34,0.0,UPI
+SE-1248,2025-12-30,C121,Darbhanga,Snacks,Potato Chips 150g,2,50,35.1,10.0,UPI
+SE-1249,2025-12-31,C261,Patna,Snacks,Cold Drink 2L,3,95,69.57,5.0,UPI
+SE-1250,2025-12-31,C247,Bhagalpur,Grocery,Wheat Atta 5kg,2,245,197.33,5.0,UPI
