@@ -1,11 +1,10 @@
-::: {align="center"}
 # Power BI Sales Analysis Dashboard
 
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Sales+Performance+Analysis;Power+BI+%7C+DAX+%7C+Power+Query" alt="Animated project title" />`{=html}
+![Animated project
+title](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Sales+Performance+Analysis;Power+BI+%7C+DAX+%7C+Power+Query)
 
-**An interactive dashboard for exploring sales, revenue, profit, and
-product performance.**
-:::
+An interactive dashboard for exploring sales, revenue, profit, and
+product performance.
 
 ------------------------------------------------------------------------
 
@@ -34,7 +33,7 @@ product performance.**
 
 ## Tools Used
 
--   **Power BI** --- dashboard and visualisation
+-   **Microsoft Power BI** --- dashboard development and visualisation
 -   **Power Query** --- data cleaning and transformation
 -   **DAX** --- measures and KPI calculations
 
@@ -56,8 +55,7 @@ product performance.**
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 **Created by [64yadav](https://github.com/64yadav)**
 
-*Data Analytics • Business Intelligence • Data Visualisation*
-:::
+*Data Analytics · Business Intelligence · Data Visualisation*
+
